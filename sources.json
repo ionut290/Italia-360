@@ -1,0 +1,52 @@
+{
+  "sources": [
+    {
+      "id": "tper-bologna",
+      "name": "TPER Bologna",
+      "type": "rss",
+      "url": "https://www.tper.it/taxonomy/term/33/all/rss.xml",
+      "category": "Trasporti",
+      "enabled": true
+    },
+    {
+      "id": "comune-bologna",
+      "name": "Comune di Bologna",
+      "type": "link",
+      "url": "https://www.comune.bologna.it/",
+      "category": "Istituzioni",
+      "enabled": true
+    },
+    {
+      "id": "opendata-bologna",
+      "name": "Open Data Bologna",
+      "type": "link",
+      "url": "https://opendata.comune.bologna.it/",
+      "category": "Dati",
+      "enabled": true
+    },
+    {
+      "id": "arpae",
+      "name": "ARPAE",
+      "type": "link",
+      "url": "https://www.arpae.it/it/notizie/notizie-arpae",
+      "category": "Ambiente",
+      "enabled": true
+    },
+    {
+      "id": "eventi",
+      "name": "Bologna Welcome",
+      "type": "link",
+      "url": "https://www.bolognawelcome.com/",
+      "category": "Eventi",
+      "enabled": true
+    },
+    {
+      "id": "polizia",
+      "name": "Polizia di Stato",
+      "type": "link",
+      "url": "https://www.poliziadistato.it/",
+      "category": "Sicurezza",
+      "enabled": true
+    }
+  ]
+}
