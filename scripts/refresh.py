@@ -18,7 +18,7 @@ NS = {"atom": "http://www.w3.org/2005/Atom"}
 QUARTIERI = ["Borgo Panigale-Reno", "Navile", "Porto-Saragozza", "San Donato-San Vitale", "Santo Stefano", "Savena"]
 
 def clean(value):
-    return re.sub(r"\\s+", " ", re.sub(r"<[^>]*>", " ", value or "")).strip()[:500]
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]*>", " ", value or "")).strip()[:500]
 
 def child_text(node, names):
     for name in names:
@@ -93,7 +93,7 @@ def main():
     items = sorted(seen.values(), key=lambda x:x.get("date") or "", reverse=True)[:120]
     OUT.parent.mkdir(exist_ok=True)
     payload = {"updated_at":dt.datetime.now(dt.timezone.utc).isoformat(), "items":items, "errors":errors, "feeds_ok":ok}
-    OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+    OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("Saved",len(items),"articles")
 if __name__ == "__main__":
     main()
