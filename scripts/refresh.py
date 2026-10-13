@@ -14,7 +14,7 @@ from urllib.parse import urlparse
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 SOURCES = json.loads((ROOT / "sources.json").read_text(encoding="utf-8"))["sources"]
 OUT = ROOT / "data" / "news.json"
-NS = {"atom": "http://www.w3.org/2005/Atom"}
+NS = {"atom": "http://www.w3.org/2005/Atom", "dc": "http://purl.org/dc/elements/1.1/"}
 QUARTIERI = ["Borgo Panigale-Reno", "Navile", "Porto-Saragozza", "San Donato-San Vitale", "Santo Stefano", "Savena"]
 
 def clean(value):
@@ -46,7 +46,7 @@ def read_feed(source):
     if len(data) > 2_000_000:
         raise ValueError("Feed exceeds 2 MB")
     root = ET.fromstring(data)
-    items = root.findall(".//item") if root.tag.lower().endswith("rss") else root.findall(".//atom:entry", NS)
+    items = root.findall(".//item") or root.findall(".//atom:entry", NS)
     result = []
     for node in items[:60]:
         title = clean(child_text(node, ["title", "atom:title"]))
@@ -80,6 +80,8 @@ def main():
             continue
         try:
             articles = read_feed(source)
+            if not articles:
+                raise ValueError("Il feed non contiene articoli validi")
             collected.extend(articles)
             ok += 1
             print(source["id"], len(articles))
