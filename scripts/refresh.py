@@ -66,6 +66,49 @@ def read_feed(source):
         result.append({"id": hashlib.sha256(link.encode()).hexdigest()[:20], "title":title[:180], "url":link, "date":date, "description":description[:260], "source":source["name"], "category":source["category"], "quartiere":""})
     return result
 
+
+def read_events(source):
+    """Bologna Cultura official OpenDataSoft records, including verified quartier labels."""
+    req = urllib.request.Request(source["api_url"], headers={
+        "User-Agent": "Italia360NewsBot/1.0", "Accept": "application/json"})
+    with urllib.request.urlopen(req, timeout=25) as response:
+        data = response.read(3_000_001)
+    if len(data) > 3_000_000:
+        raise ValueError("API response exceeds 3 MB")
+    payload = json.loads(data)
+    records = payload.get("results", [])
+    if not isinstance(records, list):
+        raise ValueError("Invalid API results")
+    names = {"Borgo Panigale - Reno":"Borgo Panigale-Reno",
+             "Porto - Saragozza":"Porto-Saragozza",
+             "San Donato - San Vitale":"San Donato-San Vitale"}
+    result = []
+    now = dt.datetime.now(dt.timezone.utc)
+    for record in records:
+        title = clean(str(record.get("titolo") or record.get("title") or ""))
+        url = str(record.get("url") or "").strip()
+        parsed = urlparse(url)
+        if not title or parsed.scheme != "https" or not parsed.hostname:
+            continue
+        start = str(record.get("start") or "")
+        end = str(record.get("end") or "")
+        try:
+            when = dt.datetime.fromisoformat(start[:10]).replace(tzinfo=dt.timezone.utc)
+            until = dt.datetime.fromisoformat(end[:10]).replace(tzinfo=dt.timezone.utc) if end else when
+            if until < now - dt.timedelta(days=1) or when > now + dt.timedelta(days=120):
+                continue
+        except ValueError:
+            continue
+        area = names.get(str(record.get("quartiere") or "").strip(), str(record.get("quartiere") or "").strip())
+        if area not in QUARTIERI:
+            area = ""
+        description = clean(str(record.get("descrizione") or record.get("description") or ""))
+        result.append({"id": hashlib.sha256(url.encode()).hexdigest()[:20],
+                       "title": title[:180], "url": url, "date": when.isoformat(),
+                       "description": description[:260], "source": source["name"],
+                       "category": source["category"], "quartiere": area})
+    return result
+
 def main():
     previous = {}
     if OUT.exists():
@@ -76,10 +119,10 @@ def main():
     old = previous.get("items", [])
     collected, errors, ok = [], [], 0
     for source in SOURCES:
-        if source.get("type") != "rss" or not source.get("enabled"):
+        if source.get("type") not in ("rss", "opendatasoft") or not source.get("enabled"):
             continue
         try:
-            articles = read_feed(source)
+            articles = read_events(source) if source.get('type') == 'opendatasoft' else read_feed(source)
             if not articles:
                 raise ValueError("Il feed non contiene articoli validi")
             collected.extend(articles)
@@ -92,7 +135,7 @@ def main():
     seen = {}
     for article in collected:
         seen[article["id"]] = article
-    items = sorted(seen.values(), key=lambda x:x.get("date") or "", reverse=True)[:120]
+    items = sorted(seen.values(), key=lambda x:x.get("date") or "", reverse=True)[:200]
     OUT.parent.mkdir(exist_ok=True)
     payload = {"updated_at":dt.datetime.now(dt.timezone.utc).isoformat(), "items":items, "errors":errors, "feeds_ok":ok}
     OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
