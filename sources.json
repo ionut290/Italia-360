@@ -3,9 +3,25 @@
     {
       "id": "tper-bologna",
       "name": "TPER Bologna",
-      "type": "rss",
-      "url": "https://www.tper.it/taxonomy/term/33/all/rss.xml",
+      "type": "link",
+      "url": "https://www.tper.it/notizie/feed-rss",
       "category": "Trasporti",
+      "enabled": true
+    },
+    {
+      "id": "albo-bologna",
+      "name": "Albo Pretorio Bologna",
+      "type": "rss",
+      "url": "https://servizi.comune.bologna.it/albosocial/rest/rssfeed",
+      "category": "Atti pubblici",
+      "enabled": true
+    },
+    {
+      "id": "allerta-meteo",
+      "name": "Allerta Meteo Emilia-Romagna",
+      "type": "rss",
+      "url": "https://allertameteo.regione.emilia-romagna.it/o/compila-allerta-portlet/feed?feed=allerte-bollettini",
+      "category": "Meteo e allerte",
       "enabled": true
     },
     {
