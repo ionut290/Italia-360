@@ -3,8 +3,8 @@
     {
       "id": "tper-bologna",
       "name": "TPER Bologna",
-      "type": "link",
-      "url": "https://www.tper.it/notizie/feed-rss",
+      "type": "rss",
+      "url": "https://www.tper.it/taxonomy/term/33/all/rss.xml",
       "category": "Trasporti",
       "enabled": true
     },
