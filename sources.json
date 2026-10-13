@@ -51,10 +51,11 @@
     {
       "id": "eventi",
       "name": "Bologna Welcome",
-      "type": "link",
-      "url": "https://www.bolognawelcome.com/",
+      "type": "opendatasoft",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/eventi-bologna-agenda-cultura/",
       "category": "Eventi",
-      "enabled": true
+      "enabled": true,
+      "api_url": "https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/eventi-bologna-agenda-cultura/records?limit=100&order_by=start%20DESC"
     },
     {
       "id": "polizia",
