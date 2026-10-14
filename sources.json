@@ -64,6 +64,30 @@
       "url": "https://www.poliziadistato.it/",
       "category": "Sicurezza",
       "enabled": true
+    },
+    {
+      "id": "cantieri-bologna",
+      "name": "Cantieri stradali Comune di Bologna",
+      "type": "link",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "category": "Viabilità",
+      "enabled": true
+    },
+    {
+      "id": "questura-bologna",
+      "name": "Questura di Bologna",
+      "type": "link",
+      "url": "https://questure.poliziadistato.it/it/Bologna",
+      "category": "Sicurezza",
+      "enabled": true
+    },
+    {
+      "id": "tper-rss-index",
+      "name": "TPER Feed RSS ufficiali",
+      "type": "link",
+      "url": "https://www.tper.it/notizie/feed-rss",
+      "category": "Trasporti",
+      "enabled": true
     }
   ]
 }
