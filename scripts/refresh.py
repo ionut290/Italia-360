@@ -131,7 +131,15 @@ def main():
         except Exception as exc:
             errors.append({"source":source["name"], "error":str(exc)[:160]})
             print("ERROR", source["id"], exc)
-            collected.extend(x for x in old if x.get("source") == source["name"])
+            for x in old:
+                if x.get("source") != source["name"] or not x.get("date"):
+                    continue
+                try:
+                    published = dt.datetime.fromisoformat(x["date"].replace("Z", "+00:00"))
+                    if published.tzinfo and published >= dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=7):
+                        collected.append(x)
+                except ValueError:
+                    continue
     seen = {}
     for article in collected:
         seen[article["id"]] = article
