@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-13T22:48:37.337315+00:00",
+  "updated_at": "2026-10-14T04:58:12.244744+00:00",
   "items": [
+    {
+      "id": "d858f44eafa59988a8fc",
+      "title": "Fisicamente mi piacciono tutti. Michela Giraud",
+      "url": "https://culturabologna.it/events/574353",
+      "date": "2027-02-11T00:00:00+00:00",
+      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "815b5135d79835271436",
+      "title": "IL COCCODRILLO E L’ELEFANTE",
+      "url": "https://culturabologna.it/events/574607",
+      "date": "2027-02-11T00:00:00+00:00",
+      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Navile"
+    },
+    {
+      "id": "7678ff4cb5ecf654ef78",
+      "title": "Otello",
+      "url": "https://culturabologna.it/events/574158",
+      "date": "2027-02-11T00:00:00+00:00",
+      "description": "Opera aperta. Teatro Arena del Sole e Teatro delle Moline | Stagione 2026/27",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Porto-Saragozza"
+    },
     {
       "id": "579f44a294b0c3c5c91d",
       "title": "L’epoca della rabbia. Storie di ragazzi che uccidono all’ombra di Narciso",
@@ -50,6 +80,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Navile"
+    },
+    {
+      "id": "43d924bf24499ae65776",
+      "title": "Ritratto di Bambola",
+      "url": "https://culturabologna.it/events/575939",
+      "date": "2027-02-06T00:00:00+00:00",
+      "description": "spettacolo di e con Elena Bucci | ITC Teatro 2026/2027 - Contemporaneo",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
     },
     {
       "id": "f7236ddbf838e0afd3eb",
@@ -242,6 +282,16 @@
       "quartiere": "Porto-Saragozza"
     },
     {
+      "id": "239791cb69bf2800c795",
+      "title": "Tipico maschio italiano",
+      "url": "https://culturabologna.it/events/575924",
+      "date": "2027-01-23T00:00:00+00:00",
+      "description": "spettacolo di e con Lorenzo Maragoni | ITC Teatro 2026/2027 - Contemporaneo",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
+    },
+    {
       "id": "72c34dd75eb205e38bdf",
       "title": "Morte accidentale di un anarchico",
       "url": "https://culturabologna.it/events/571651",
@@ -280,6 +330,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Navile"
+    },
+    {
+      "id": "8bef3a62c644cfd31887",
+      "title": "sdisOrè",
+      "url": "https://culturabologna.it/events/575913",
+      "date": "2027-01-20T00:00:00+00:00",
+      "description": "spettacolo di TPE/Gruppo UROR | ITC Teatro 2026/2027 - Contemporaneo",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
     },
     {
       "id": "ad0a9ccdb37118d2d6e4",
@@ -372,6 +432,16 @@
       "quartiere": "Porto-Saragozza"
     },
     {
+      "id": "7569d9e1937566e19245",
+      "title": "Un bambino è un bambino",
+      "url": "https://culturabologna.it/events/575904",
+      "date": "2027-01-13T00:00:00+00:00",
+      "description": "spettacolo del Teatro dell’Argine | ITC Teatro 2026/2027 - Contemporaneo",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
+    },
+    {
       "id": "09bae67b5a2a29d24770",
       "title": "Tinta. Una storia autobiografica",
       "url": "https://culturabologna.it/events/573124",
@@ -450,106 +520,6 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "San Donato-San Vitale"
-    },
-    {
-      "id": "3a59081d3494db4fc65f",
-      "title": "Bubbles Revolution. Marco Zoppi e Rolanda Sabaliauskaite",
-      "url": "https://culturabologna.it/events/574296",
-      "date": "2027-01-05T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027 | EVENTO OSPITE",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "a31781072a05811506b7",
-      "title": "CAPODANNO CON DONDARINI & DALFIUME",
-      "url": "https://culturabologna.it/events/569656",
-      "date": "2026-12-31T00:00:00+00:00",
-      "description": "Teatro Dehon | Stagione 2026-2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "San Donato-San Vitale"
-    },
-    {
-      "id": "0b0a4e1714aac1a54b37",
-      "title": "Markus Stenz | Panfili - Beethoven",
-      "url": "https://culturabologna.it/events/543895",
-      "date": "2026-12-31T00:00:00+00:00",
-      "description": "Stagione Sinfonica 2026 del Teatro Comunale di Bologna",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "20f0994788d92d55fcc7",
-      "title": "Capodanno di Comunità - La gatta e i poeti (Canzoni di Gino Paoli e Ornella Vanoni)",
-      "url": "https://culturabologna.it/events/573138",
-      "date": "2026-12-31T00:00:00+00:00",
-      "description": "Caro teatro, ti scrivo....| Stagione 2026-2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "4ef3f341ed08e1ff3e92",
-      "title": "Classescion. Vito",
-      "url": "https://culturabologna.it/events/569697",
-      "date": "2026-12-29T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "725e9761c9eb1655b006",
-      "title": "Titizé. A Venetian Dream",
-      "url": "https://culturabologna.it/events/569467",
-      "date": "2026-12-29T00:00:00+00:00",
-      "description": "Opera aperta. Teatro Arena del Sole e Teatro delle Moline | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "4a40e445a9fc33709637",
-      "title": "Cenerentola on Ice. The Imperial Ice Stars",
-      "url": "https://culturabologna.it/events/569695",
-      "date": "2026-12-23T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "d7a98312ccaf93f5355d",
-      "title": "Ho un pezzettino in gola",
-      "url": "https://culturabologna.it/events/569080",
-      "date": "2026-12-20T00:00:00+00:00",
-      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "7696ccb4edf9b3d80d8d",
-      "title": "Balla, Ludovico, balla!",
-      "url": "https://culturabologna.it/events/571503",
-      "date": "2026-12-20T00:00:00+00:00",
-      "description": "Concordanze",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "558d4f1f28a40bf16e67",
-      "title": "Soluzioni nascoste",
-      "url": "https://culturabologna.it/events/569078",
-      "date": "2026-12-19T00:00:00+00:00",
-      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
     },
     {
       "id": "e6679e797870fc8fedb3",
