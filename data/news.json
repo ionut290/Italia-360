@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T04:58:12.244744+00:00",
+  "updated_at": "2026-10-14T11:58:01.795626+00:00",
   "items": [
     {
       "id": "d858f44eafa59988a8fc",
@@ -522,6 +522,16 @@
       "quartiere": "San Donato-San Vitale"
     },
     {
+      "id": "4e3b5c2d5cfdc5d0e63a",
+      "title": "Bollettino di vigilanza 162/2026 valido dalle 00:00 del 15/10/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4835484/bollettino162_2026.pdf",
+      "date": "2026-10-14T11:55:39+00:00",
+      "description": "Per giovedì 15 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "e6679e797870fc8fedb3",
       "title": "Bollettino di vigilanza 161/2026 valido dalle 00:00 del 14/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4831392/bollettino161_2026.pdf",
@@ -707,16 +717,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4728812/bollettino143_2026.pdf",
       "date": "2026-09-21T11:38:56+00:00",
       "description": "Per martedì 22 settembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "d4f1261aa682ce0f25cc",
-      "title": "Bollettino di vigilanza 142/2026 valido dalle 00:00 del 19/09/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4715764/bollettino142_2026.pdf",
-      "date": "2026-09-18T12:43:32+00:00",
-      "description": "Per le giornate di sabato 19, domenica 20 e lunedì 21 settembre 2026 non si prevedono fenomeni significativi ai fini dell'allertamento, tuttavia nella giornata di sabato non si escludono temporali sparsi di breve durata più probabili sul settore orientale, con",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
