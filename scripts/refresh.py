@@ -111,6 +111,45 @@ def read_events(source):
                        "category": source["category"], "quartiere": area})
     return result
 
+def read_works(source):
+    """Read official Bologna roadworks records without inventing neighborhood labels."""
+    req = urllib.request.Request(source["api_url"], headers={"User-Agent": "Italia360NewsBot/1.0", "Accept": "application/json"})
+    with urllib.request.urlopen(req, timeout=25) as response:
+        data = response.read(3_000_001)
+    if len(data) > 3_000_000:
+        raise ValueError("API response exceeds 3 MB")
+    records = json.loads(data).get("results", [])
+    if not isinstance(records, list):
+        raise ValueError("Invalid roadworks API results")
+    names = {"Borgo Panigale - Reno": "Borgo Panigale-Reno", "Porto - Saragozza": "Porto-Saragozza", "San Donato - San Vitale": "San Donato-San Vitale"}
+    result = []
+    now = dt.datetime.now(dt.timezone.utc)
+    for record in records:
+        address = clean(str(record.get("address") or ""))
+        detail = clean(str(record.get("description") or record.get("roadway1") or ""))
+        start = str(record.get("effectivestartdate") or "")
+        end = str(record.get("effectiveenddate") or "")
+        try:
+            start_date = dt.datetime.fromisoformat(start.replace("Z", "+00:00"))
+            if start_date.tzinfo is None:
+                start_date = start_date.replace(tzinfo=dt.timezone.utc)
+            end_date = dt.datetime.fromisoformat(end.replace("Z", "+00:00")) if end else start_date + dt.timedelta(days=14)
+            if end_date.tzinfo is None:
+                end_date = end_date.replace(tzinfo=dt.timezone.utc)
+            if end_date < now - dt.timedelta(days=1) or start_date > now + dt.timedelta(days=14):
+                continue
+        except ValueError:
+            continue
+        if not address and not detail:
+            continue
+        area = names.get(str(record.get("neighborhood1") or "").strip(), str(record.get("neighborhood1") or "").strip())
+        if area not in QUARTIERI:
+            area = ""
+        rid = str(record.get("id") or (address + start))
+        link = source["url"]
+        result.append({"id": hashlib.sha256((source["id"] + rid).encode()).hexdigest()[:20], "title": ("Lavori in " + address if address else detail)[:180], "url": link, "date": start_date.isoformat(), "description": detail[:260], "source": source["name"], "category": source["category"], "quartiere": area})
+    return result
+
 def main():
     previous = {}
     if OUT.exists():
@@ -121,10 +160,10 @@ def main():
     old = previous.get("items", [])
     collected, errors, ok = [], [], 0
     for source in SOURCES:
-        if source.get("type") not in ("rss", "opendatasoft") or not source.get("enabled"):
+        if source.get("type") not in ("rss", "opendatasoft", "opendatasoft_works") or not source.get("enabled"):
             continue
         try:
-            articles = read_events(source) if source.get('type') == 'opendatasoft' else read_feed(source)
+            articles = read_events(source) if source.get('type') == 'opendatasoft' else read_works(source) if source.get('type') == 'opendatasoft_works' else read_feed(source)
             if not articles:
                 raise ValueError("Il feed non contiene articoli validi")
             collected.extend(articles)
