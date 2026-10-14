@@ -14,7 +14,7 @@
       "type": "rss",
       "url": "https://servizi.comune.bologna.it/albosocial/rest/rssfeed",
       "category": "Atti pubblici",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "allerta-meteo",
@@ -68,10 +68,11 @@
     {
       "id": "cantieri-bologna",
       "name": "Cantieri stradali Comune di Bologna",
-      "type": "link",
+      "type": "opendatasoft_works",
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
       "category": "Viabilità",
-      "enabled": true
+      "enabled": true,
+      "api_url": "https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/lavori-pubblici/records?limit=100"
     },
     {
       "id": "questura-bologna",
