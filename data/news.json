@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T18:38:47.323222+00:00",
+  "updated_at": "2026-10-14T22:18:46.873838+00:00",
   "items": [
     {
       "id": "d858f44eafa59988a8fc",
@@ -670,16 +670,6 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
-    },
-    {
-      "id": "cd362245adf3a138f6d4",
-      "title": "Lavori in VIA NOSADELLA",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-10-04T22:00:00+00:00",
-      "description": "Lavori edili con ausilio di camion gru",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Porto-Saragozza"
     },
     {
       "id": "efc9b3b6471422b2afb4",
