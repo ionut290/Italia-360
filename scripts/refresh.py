@@ -57,8 +57,10 @@ def read_feed(source):
                     link = a.get("href", "")
                     break
         link = link.strip()
+        if link.startswith("http://") and urlparse(link).hostname in ("www.tper.it", "tper.it"):
+            link = "https://" + link[len("http://"):]
         parsed = urlparse(link)
-        if not title or parsed.scheme != "https" or not parsed.hostname:
+        if not title or parsed.scheme not in ("http", "https") or not parsed.hostname:
             continue
         date = date_iso(child_text(node, ["pubDate", "atom:published", "atom:updated", "dc:date"]))
         description = clean(child_text(node, ["description", "atom:summary"]))
