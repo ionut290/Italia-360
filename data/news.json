@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:10:05.256856+00:00",
+  "updated_at": "2026-10-16T23:36:36.085784+00:00",
   "items": [
     {
       "id": "ba41039035ddc12e57a2",
@@ -552,16 +552,6 @@
       "quartiere": ""
     },
     {
-      "id": "58974a21439c4db5ae20",
-      "title": "Lavori in VIA TAZIO NUVOLARI",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-10-11T22:00:00+00:00",
-      "description": "Lavori di ripristino di secondo tempo della pavimentazione stradale a seguito di posa teleriscaldamento",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "San Donato-San Vitale"
-    },
-    {
       "id": "499b17bc11b4ea436a4e",
       "title": "Bollettino di vigilanza 159/2026 valido dalle 00:00 del 12/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4823240/bollettino159_2026.pdf",
@@ -602,16 +592,6 @@
       "quartiere": ""
     },
     {
-      "id": "cd79e73e552b7e2729fd",
-      "title": "Lavori in VIA PONTIDA",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-10-07T22:00:00+00:00",
-      "description": "Rifacimento della pavimentazione stradale",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Borgo Panigale-Reno"
-    },
-    {
       "id": "37a3d3d6f344b3e6a3d4",
       "title": "Bollettino di vigilanza 155/2026 valido dalle 00:00 del 08/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4800739/bollettino155_2026.pdf",
@@ -620,16 +600,6 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
-    },
-    {
-      "id": "6dadbaa99c9475b2098e",
-      "title": "Lavori in VIA EZIO CESARINI",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-10-06T22:00:00+00:00",
-      "description": "Rifacimento della pavimentazione dei marciapiedi",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Navile"
     },
     {
       "id": "ef034d3968e1699a8088",
@@ -670,16 +640,6 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
-    },
-    {
-      "id": "efc9b3b6471422b2afb4",
-      "title": "Lavori in VIA LUIGI PIRANDELLO",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-10-04T22:00:00+00:00",
-      "description": "Lavori di ripristino di secondo tempo della pavimentazione stradale a seguito della posa del teleriscaldamento.",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "San Donato-San Vitale"
     },
     {
       "id": "d4034fcfbfdab083e0dd",
@@ -760,16 +720,6 @@
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "San Donato-San Vitale"
-    },
-    {
-      "id": "e4ea67ff25b8d4a3dcd9",
-      "title": "Lavori in VIA OTELLO BONVICINI",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-09-27T22:00:00+00:00",
-      "description": "Rifacimento della pavimentazione dei marciapiedi e realizzazione scivoli disabili",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Navile"
     },
     {
       "id": "43556bd57cb43a8d61bf",
