@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-15T22:19:38.761146+00:00",
+  "updated_at": "2026-10-16T01:21:43.474266+00:00",
   "items": [
+    {
+      "id": "ba41039035ddc12e57a2",
+      "title": "SOTTO UN’ALTRA LUCE",
+      "url": "https://culturabologna.it/events/574658",
+      "date": "2027-02-13T00:00:00+00:00",
+      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Navile"
+    },
+    {
+      "id": "00613b1f40e1454910a4",
+      "title": "Il paese dei quadrati magici",
+      "url": "https://culturabologna.it/events/576517",
+      "date": "2027-02-13T00:00:00+00:00",
+      "description": "ITC Teatro Stagione Junior 2026-2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
+    },
     {
       "id": "ef55a9e63c2cda579175",
       "title": "Insieme. Laura Morante",
@@ -200,6 +220,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Navile"
+    },
+    {
+      "id": "d6324da4f16caa6a3db7",
+      "title": "Farfollie",
+      "url": "https://culturabologna.it/events/576515",
+      "date": "2027-01-30T00:00:00+00:00",
+      "description": "ITC Teatro Stagione Junior 2026-2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
     },
     {
       "id": "7503122d3cb44bbd8f11",
@@ -470,66 +500,6 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "3cf165c01124b6aafe4b",
-      "title": "LA BELLA O LA BESTIA",
-      "url": "https://culturabologna.it/events/574433",
-      "date": "2027-01-10T00:00:00+00:00",
-      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "d0a355d1bcd066a98438",
-      "title": "Tutta colpa del K-POP. Seoul Mafia",
-      "url": "https://culturabologna.it/events/574298",
-      "date": "2027-01-09T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027 | EVENTO OSPITE",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "6dc99e216dd4fe3b0347",
-      "title": "Beatrice Rana",
-      "url": "https://culturabologna.it/events/568225",
-      "date": "2027-01-08T00:00:00+00:00",
-      "description": "Musica Insieme | I Concerti 2026|2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "e690d6f7ea3fdb08a9ef",
-      "title": "Angeli funamboli",
-      "url": "https://culturabologna.it/events/574100",
-      "date": "2027-01-07T00:00:00+00:00",
-      "description": "Opera aperta. Teatro Arena del Sole e Teatro delle Moline | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "bf5f2f4a42dfd4a41515",
-      "title": "CAPPUCCETTO ROSSO",
-      "url": "https://culturabologna.it/events/571538",
-      "date": "2027-01-06T00:00:00+00:00",
-      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "076133c1b3afd4391a3f",
-      "title": "LO SCHIACCIANOCI",
-      "url": "https://culturabologna.it/events/571978",
-      "date": "2027-01-05T00:00:00+00:00",
-      "description": "Teatro Dehon | Stagione 2026-2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "San Donato-San Vitale"
     },
     {
       "id": "8d89ff01603fe3533412",
