@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T07:10:58.860202+00:00",
+  "updated_at": "2026-10-16T12:26:17.019779+00:00",
   "items": [
     {
       "id": "ba41039035ddc12e57a2",
@@ -502,6 +502,16 @@
       "quartiere": "Porto-Saragozza"
     },
     {
+      "id": "d3046a3a90a3abd2d236",
+      "title": "Bollettino di vigilanza 164/2026 valido dalle 00:00 del 17/10/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4840115/bollettino164_2026.pdf",
+      "date": "2026-10-16T11:43:17+00:00",
+      "description": "Per la giornata di sabato 17 ottobre non si prevedono fenomeni significativi ai fini dell'allertamento.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "8d89ff01603fe3533412",
       "title": "Bollettino di vigilanza 163/2026 valido dalle 00:00 del 16/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4839671/bollettino163_2026.pdf",
@@ -792,16 +802,6 @@
       "quartiere": ""
     },
     {
-      "id": "c4cb71da222c64b0817d",
-      "title": "Bollettino di vigilanza 144/2026 valido dalle 00:00 del 23/09/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4744740/bollettino144_2026.pdf",
-      "date": "2026-09-22T12:01:40+00:00",
-      "description": "Per mercoledì 23 settembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
       "id": "d81780c2ad191dfce6ca",
       "title": "Lavori in VIA CARAVAGGIO",
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
@@ -897,6 +897,16 @@
       "url": "https://tper.it/pagamenti-contactless-preautorizzazione-1-marzo-2026",
       "date": "2026-03-03T14:05:43+01:00",
       "description": "Se paghi il viaggio con carta contactless direttamente a bordo autobus, dal 1° marzo 2026 cambia il sistema di pre-autorizzazione. L’importo pre-autorizzato potrà variare da 0 euro fino a 2,30 euro , in base al circuito della carta utilizzata. Per alcuni circu",
+      "source": "TPER Bologna",
+      "category": "Trasporti",
+      "quartiere": ""
+    },
+    {
+      "id": "e585e8a6ccaf0a229321",
+      "title": "Chiusura punto Tper – Silla",
+      "url": "https://tper.it/news/chiusura-punto-tper-silla",
+      "date": "2026-02-16T08:54:28+01:00",
+      "description": "Si informa che il Punto Tper di Silla , nel Comune di Castel di Casio , resterà chiuso al pubblico dal 20 al 26 ottobre 2026 . Il servizio riprenderà regolarmente secondo i consueti orari di apertura a partire dal giorno successivo.",
       "source": "TPER Bologna",
       "category": "Trasporti",
       "quartiere": ""
