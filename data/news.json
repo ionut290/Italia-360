@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-16T23:36:36.085784+00:00",
+  "updated_at": "2026-10-17T04:27:56.438332+00:00",
   "items": [
+    {
+      "id": "9b51bdb411b47e03c565",
+      "title": "Pietro saltatempo",
+      "url": "https://culturabologna.it/events/576519",
+      "date": "2027-02-14T00:00:00+00:00",
+      "description": "ITC Teatro Stagione Junior 2026-2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
+    },
     {
       "id": "ba41039035ddc12e57a2",
       "title": "SOTTO UN’ALTRA LUCE",
@@ -117,6 +127,16 @@
       "url": "https://culturabologna.it/events/575939",
       "date": "2027-02-06T00:00:00+00:00",
       "description": "spettacolo di e con Elena Bucci | ITC Teatro 2026/2027 - Contemporaneo",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
+    },
+    {
+      "id": "260d4335861b6cda2476",
+      "title": "Carlo e Giorgio sciò",
+      "url": "https://culturabologna.it/events/576699",
+      "date": "2027-02-06T00:00:00+00:00",
+      "description": "con Carlo Giorgio",
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": ""
@@ -312,6 +332,16 @@
       "quartiere": "Navile"
     },
     {
+      "id": "43a72e5e24786352a220",
+      "title": "Noi siamo voi. Votatevi!",
+      "url": "https://culturabologna.it/events/576695",
+      "date": "2027-01-23T00:00:00+00:00",
+      "description": "con Antonio Cornacchione e Sergio Sgrilli",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
+    },
+    {
       "id": "acf635ef6d8f56f93296",
       "title": "La mente in scena. Ispirato a una storia vera",
       "url": "https://culturabologna.it/events/574325",
@@ -432,70 +462,20 @@
       "quartiere": "Porto-Saragozza"
     },
     {
-      "id": "2b5be3cbf07f06878324",
-      "title": "Tu sei la foresta. Un viaggio iniziatico tra visibile e invisibile",
-      "url": "https://culturabologna.it/events/574309",
-      "date": "2027-01-14T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "57221eaa9c28fe2148b6",
-      "title": "Di madre in figlia",
-      "url": "https://culturabologna.it/events/574102",
-      "date": "2027-01-14T00:00:00+00:00",
-      "description": "Opera aperta. Teatro Arena del Sole e Teatro delle Moline | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "7cd645824df0a08880b3",
-      "title": "QUI",
-      "url": "https://culturabologna.it/events/574104",
-      "date": "2027-01-14T00:00:00+00:00",
-      "description": "Opera aperta. Teatro Arena del Sole e Teatro delle Moline | Stagione 2026/27",
+      "id": "83d9ce15ae5523f7c730",
+      "title": "Intenti poetici: riflessioni sulla poesia classica cinese",
+      "url": "https://culturabologna.it/events/576559",
+      "date": "2027-01-15T00:00:00+00:00",
+      "description": "ciclo di incontri sulla poesia classica cinese con Melinda Pirazzoli",
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Santo Stefano"
     },
     {
-      "id": "3201cc72cac44524b0cd",
-      "title": "O Violoncelo Latinoamericano",
-      "url": "https://culturabologna.it/events/551777",
+      "id": "2b5be3cbf07f06878324",
+      "title": "Tu sei la foresta. Un viaggio iniziatico tra visibile e invisibile",
+      "url": "https://culturabologna.it/events/574309",
       "date": "2027-01-14T00:00:00+00:00",
-      "description": "Jaques Morelenbaum | Jazz on Symphony 2026",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "7569d9e1937566e19245",
-      "title": "Un bambino è un bambino",
-      "url": "https://culturabologna.it/events/575904",
-      "date": "2027-01-13T00:00:00+00:00",
-      "description": "spettacolo del Teatro dell’Argine | ITC Teatro 2026/2027 - Contemporaneo",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "09bae67b5a2a29d24770",
-      "title": "Tinta. Una storia autobiografica",
-      "url": "https://culturabologna.it/events/573124",
-      "date": "2027-01-12T00:00:00+00:00",
-      "description": "Stagione per famiglie e scuole 2026-2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "bd65489df18f5ef0bedf",
-      "title": "Perfetta. Geppi Cucciari",
-      "url": "https://culturabologna.it/events/574301",
-      "date": "2027-01-11T00:00:00+00:00",
       "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
       "source": "Bologna Welcome",
       "category": "Eventi",
