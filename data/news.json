@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T04:27:56.438332+00:00",
+  "updated_at": "2026-10-17T09:22:36.867175+00:00",
   "items": [
     {
       "id": "9b51bdb411b47e03c565",
@@ -590,16 +590,6 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
-    },
-    {
-      "id": "8bec883d0a0427d9dff5",
-      "title": "Lavori in VIA MASSIMO D'AZEGLIO",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-10-05T22:00:00+00:00",
-      "description": "Ripristino localizzato della pavimentazione stradale",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Porto-Saragozza"
     },
     {
       "id": "3a991b14b152b8a01d51",
