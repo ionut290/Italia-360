@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T09:22:36.867175+00:00",
+  "updated_at": "2026-10-17T13:43:56.924182+00:00",
   "items": [
     {
       "id": "9b51bdb411b47e03c565",
@@ -482,6 +482,16 @@
       "quartiere": "Porto-Saragozza"
     },
     {
+      "id": "1c03542c4ba2f28b26bf",
+      "title": "Allerta 100/2026 valida dalle 00:00 del 18/10/2026: temporali",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4844114/allerta100_2026.pdf",
+      "date": "2026-10-17T11:47:21+00:00",
+      "description": "Allerta +++GIALLA+++ per +++temporali+++ nelle province di PC, PR RE, MO, BO. Per la giornata di domenica 18 ottobre sono previste condizioni favorevoli allo sviluppo di temporali, con possibili effetti e danni associati, sul settore occidentale e centrale del",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "d3046a3a90a3abd2d236",
       "title": "Bollettino di vigilanza 164/2026 valido dalle 00:00 del 17/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4840115/bollettino164_2026.pdf",
@@ -712,16 +722,6 @@
       "quartiere": ""
     },
     {
-      "id": "7d2bb24c09981b000a3b",
-      "title": "Bollettino di vigilanza 145/2026 valido dalle 00:00 del 24/09/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4748966/bollettino145_2026.pdf",
-      "date": "2026-09-23T11:37:55+00:00",
-      "description": "Per giovedì 24 settembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
       "id": "d81780c2ad191dfce6ca",
       "title": "Lavori in VIA CARAVAGGIO",
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
@@ -732,9 +732,9 @@
       "quartiere": "Porto-Saragozza"
     },
     {
-      "id": "260742ca3291a13a599f",
+      "id": "508ea70d7cb1240b3667",
       "title": "Carta del docente, disponibile la vendita online dei titoli Tper",
-      "url": "https://tper.it/news/carta-del-docente-online",
+      "url": "https://www.tper.it/news/carta-del-docente-online",
       "date": "2026-09-17T09:35:46+02:00",
       "description": "Da oggi è possibile utilizzare la Carta del docente per acquistare titoli di viaggio Tper nei bacini di Bologna e Ferrara . Tper ha completato sia la registrazione presso il portale nazionale del Ministero sia le procedure informatiche necessarie per abilitare",
       "source": "TPER Bologna",
@@ -742,9 +742,9 @@
       "quartiere": ""
     },
     {
-      "id": "3c1f8e99b37cb3f89476",
+      "id": "3b848832d3347193fd52",
       "title": "Martedì 15 settembre in vigore l'orario invernale Tper: le principali novità",
-      "url": "https://tper.it/content/martedi-15-settembre-vigore-lorario-invernale-tper-le-principali-novita",
+      "url": "https://www.tper.it/content/martedi-15-settembre-vigore-lorario-invernale-tper-le-principali-novita",
       "date": "2026-09-13T17:02:08+02:00",
       "description": "Come ogni anno, la prima campanella delle scuole trova pronti gli studenti, che riprendono le lezioni, ma anche i bus Tper, che ritornano a pieno regime dopo la riduzione estiva dei servizi. Martedì 15 settembre , infatti, riparte l’orario “invernale” Tper, ca",
       "source": "TPER Bologna",
@@ -752,9 +752,9 @@
       "quartiere": ""
     },
     {
-      "id": "5e1f8f96993bf609e8b8",
+      "id": "cedd6e85c52d86f16481",
       "title": "Dal 15 settembre è attiva la linea 449 (S. Giorgio di Piano SFM - Z.I. Bentivoglio - Ca' de Fabbri - Z.I. Minerbio)",
-      "url": "https://tper.it/nuova-linea-449-dal-15-09-2026",
+      "url": "https://www.tper.it/nuova-linea-449-dal-15-09-2026",
       "date": "2026-09-08T17:16:27+02:00",
       "description": "Martedì 15 settembre entra in funzione la nuova linea 449 che, dal lunedì al venerdì, collega la stazione di San Giorgio di Piano con l’Ospedale e la zona industriale di Bentivoglio, Cà de Fabbri e la zona industriale Ronchi di Minerbio, assorbendo&nbsp;la lin",
       "source": "TPER Bologna",
@@ -772,9 +772,9 @@
       "quartiere": "Santo Stefano"
     },
     {
-      "id": "a53c3c5c42c0f4afcdac",
+      "id": "10a1bcb50f16a9727280",
       "title": "San Benedetto Val di Sambro: abbonamento bus agevolato per raggiungere la stazione",
-      "url": "https://tper.it/news/abbonamento-bus-agevolato-san-benedetto-vds",
+      "url": "https://www.tper.it/news/abbonamento-bus-agevolato-san-benedetto-vds",
       "date": "2026-08-17T08:55:19+02:00",
       "description": "Dal 1° settembre 2026 , in seguito alla temporanea chiusura per lavori del parcheggio della stazione ferroviaria di San Benedetto Val di Sambro , sarà disponibile un’agevolazione per favorire l’utilizzo del bus per raggiungere la stazione. I titolari di un abb",
       "source": "TPER Bologna",
@@ -812,9 +812,9 @@
       "quartiere": "Santo Stefano"
     },
     {
-      "id": "7e19f9f4e7486c9df05b",
+      "id": "a32578df2c0a5571be18",
       "title": "Dal 1° marzo 2026 cambia la pre-autorizzazione per i pagamenti contactless a bordo",
-      "url": "https://tper.it/pagamenti-contactless-preautorizzazione-1-marzo-2026",
+      "url": "https://www.tper.it/pagamenti-contactless-preautorizzazione-1-marzo-2026",
       "date": "2026-03-03T14:05:43+01:00",
       "description": "Se paghi il viaggio con carta contactless direttamente a bordo autobus, dal 1° marzo 2026 cambia il sistema di pre-autorizzazione. L’importo pre-autorizzato potrà variare da 0 euro fino a 2,30 euro , in base al circuito della carta utilizzata. Per alcuni circu",
       "source": "TPER Bologna",
@@ -822,9 +822,9 @@
       "quartiere": ""
     },
     {
-      "id": "e585e8a6ccaf0a229321",
+      "id": "92d477bcb135eccb0d04",
       "title": "Chiusura punto Tper – Silla",
-      "url": "https://tper.it/news/chiusura-punto-tper-silla",
+      "url": "https://www.tper.it/news/chiusura-punto-tper-silla",
       "date": "2026-02-16T08:54:28+01:00",
       "description": "Si informa che il Punto Tper di Silla , nel Comune di Castel di Casio , resterà chiuso al pubblico dal 20 al 26 ottobre 2026 . Il servizio riprenderà regolarmente secondo i consueti orari di apertura a partire dal giorno successivo.",
       "source": "TPER Bologna",
@@ -832,9 +832,9 @@
       "quartiere": ""
     },
     {
-      "id": "628b1d504e335ee68a3d",
+      "id": "0870679cd6e6b3a0b0a5",
       "title": "Ecoticket gratuito per caregiver familiari a Bologna",
-      "url": "https://tper.it/content/ecoticket-gratuito-caregiver-familiari-bologna",
+      "url": "https://www.tper.it/content/ecoticket-gratuito-caregiver-familiari-bologna",
       "date": "2026-02-06T12:07:03+01:00",
       "description": "Il Comune di Bologna offre ai caregiver familiari registrati un Ecoticket gratuito per viaggiare sui mezzi urbani Tper. Il titolo, caricato su tessera \"Mi Muovo\", copre 20 giorni di viaggio entro 10 mesi. Possono richiederlo i residenti che assistono familiari",
       "source": "TPER Bologna",
@@ -842,9 +842,9 @@
       "quartiere": ""
     },
     {
-      "id": "a52a84fa5613cba265c6",
+      "id": "98a06ddf562ceda3497b",
       "title": "Deviazioni del servizio: resta aggiornato prima di partire",
-      "url": "https://tper.it/content/deviazioni-del-servizio-resta-aggiornato-prima-di-partire",
+      "url": "https://www.tper.it/content/deviazioni-del-servizio-resta-aggiornato-prima-di-partire",
       "date": "2026-02-05T10:17:30+01:00",
       "description": ".news-deviazioni { margin: 0 auto !important; } .news-deviazioni * { box-sizing: border-box !important; } .news-deviazioni .intro { margin-bottom: 30px !important; } .news-deviazioni .intro-evidenza { margin-bottom: 18px !important; font-size: 1.15em !importan",
       "source": "TPER Bologna",
@@ -862,19 +862,19 @@
       "quartiere": "Porto-Saragozza"
     },
     {
-      "id": "f35446de5b518539e730",
+      "id": "da6769cdc904d1ecf5da",
       "title": "Linea Q - da lunedì 19 maggio la nuova linea a tariffa urbana tra Ospedale Maggiore ed Aeroporto",
-      "url": "https://tper.it/content/linea-q-da-lunedi-19-maggio-la-nuova-linea-tariffa-urbana-tra-ospedale-maggiore-ed",
+      "url": "https://www.tper.it/content/linea-q-da-lunedi-19-maggio-la-nuova-linea-tariffa-urbana-tra-ospedale-maggiore-ed",
       "date": "2025-05-16T15:10:24+02:00",
-      "description": "Debutta lunedì la LINEA Q realizzata in collaborazione con Aeroporto di Bologna. Tra mezzanotte e le due del mattino prosegue da e per la Stazione Centrale. A bordo valgono anche gli abbonamenti urbani e i titoli integrati Mex. &nbsp; Debutta lunedì 19 maggio ",
+      "description": "Debutta lunedì la LINEA Q realizzata in collaborazione con Aeroporto di Bologna. Tra mezzanotte e le due del mattino prosegue da e per la Stazione Centrale. A bordo valgono anche gli abbonamenti urbani e i titoli integrati Mex. … LEGGI TUTTO",
       "source": "TPER Bologna",
       "category": "Trasporti",
       "quartiere": ""
     },
     {
-      "id": "5ce23df536f9f269c496",
+      "id": "6d7a626939a3aa2dffa3",
       "title": "Nuove tariffe agevolate per gli abbonamenti annuali urbani a Bologna, in base all’ISEE",
-      "url": "https://tper.it/ISEE-abbonamenti-annuali-urbani-Comune-di-Bologna",
+      "url": "https://www.tper.it/ISEE-abbonamenti-annuali-urbani-Comune-di-Bologna",
       "date": "2025-04-30T15:32:22+02:00",
       "description": "Dal 1° maggio sono attive le nuove tariffe per gli abbonamenti annuali personali urbani , riservate ai residenti nel Comune di Bologna . Le agevolazioni si basano sul valore ISEE ordinario e sono suddivise in tre fasce: 230 euro per chi ha un ISEE inferiore a ",
       "source": "TPER Bologna",
@@ -882,9 +882,9 @@
       "quartiere": ""
     },
     {
-      "id": "4cb71b9debfd7470695f",
+      "id": "9d9ebb10b29639113f64",
       "title": "Tper info viabilità: il nuovo canale Telegram per aggiornamenti in tempo reale",
-      "url": "https://tper.it/%E2%80%9Ctper-info-viabilit%C3%A0%E2%80%9D-il-canale-telegram-di-informazione-di-tper",
+      "url": "https://www.tper.it/%E2%80%9Ctper-info-viabilit%C3%A0%E2%80%9D-il-canale-telegram-di-informazione-di-tper",
       "date": "2025-03-24T10:03:00+01:00",
       "description": "Tper apre il proprio canale Telegram per dare comunicazione agli utenti, il più possibile in tempo reale , delle deviazioni e delle modifiche alla viabilità del trasporto pubblico nel bacino metropolitano di Bologna . Per chi lo desidera, semplicemente iscrive",
       "source": "TPER Bologna",
@@ -892,9 +892,9 @@
       "quartiere": ""
     },
     {
-      "id": "74a27ac022e6bc532d2f",
+      "id": "c8c418b9d9e741746c39",
       "title": "Roger integra Corrente tra i suoi servizi",
-      "url": "https://tper.it/content/roger-integra-corrente-tra-i-suoi-servizi",
+      "url": "https://www.tper.it/content/roger-integra-corrente-tra-i-suoi-servizi",
       "date": "2025-01-30T14:47:03+01:00",
       "description": "Mobilità sempre più connessa con l’ultimo aggiornamento dell’app Roger , l’app di viaggio regionale sviluppata da Tper, integra Corrente tra i suoi servizi. Oltre a fornire informazioni in tempo reale su autobus e treni e consentire l’acquisto di biglietti dig",
       "source": "TPER Bologna",
@@ -922,9 +922,9 @@
       "quartiere": ""
     },
     {
-      "id": "4006a02d3da5a00d33f7",
+      "id": "00c332a0f281288094e7",
       "title": "Utilizzo abbonamento annuale studenti - Università di Bologna",
-      "url": "https://tper.it/content/utilizzo-abbonamento-annuale-studenti-universita-di-bologna",
+      "url": "https://www.tper.it/content/utilizzo-abbonamento-annuale-studenti-universita-di-bologna",
       "date": "2023-01-12T17:24:16+01:00",
       "description": "Gli abbonamenti a tariffa agevolata acquistati online, nell’ambito della convenzione tra l’Università di Bologna e Tper, devono essere ritirati presso la Biglietteria Tper in Via Marconi 4 prima della data di inizio validità (indicata durante l'acquisto e ripo",
       "source": "TPER Bologna",
@@ -942,9 +942,9 @@
       "quartiere": "San Donato-San Vitale"
     },
     {
-      "id": "18481e02d1d2b277e44f",
+      "id": "b7288f4c6f6b94ac49e9",
       "title": "Inserimento scolastico dei profughi ucraini",
-      "url": "https://tper.it/content/inserimento-scolastico-dei-profughi-ucraini",
+      "url": "https://www.tper.it/content/inserimento-scolastico-dei-profughi-ucraini",
       "date": "2022-04-07T11:58:06+02:00",
       "description": "Per la gestione dell'emergenza profughi dall'Ucraina, la Regione Emilia-Romagna, di concerto con le quattro aziende del trasporto pubblico emiliano-romagnole, ha messo in campo alcuni interventi mirati in particolare alla popolazione scolastica in fuga dalla g",
       "source": "TPER Bologna",
