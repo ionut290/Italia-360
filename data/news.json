@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T05:54:56.544276+00:00",
+  "updated_at": "2026-10-18T11:07:00.392489+00:00",
   "items": [
     {
       "id": "9b51bdb411b47e03c565",
@@ -482,6 +482,16 @@
       "quartiere": "Porto-Saragozza"
     },
     {
+      "id": "eb148f01e6670b1975f2",
+      "title": "Bollettino di vigilanza 165/2026 valido dalle 00:00 del 19/10/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4852187/bollettino165_2026.pdf",
+      "date": "2026-10-18T12:02:15+00:00",
+      "description": "Per la giornata di lunedì 19 ottobre non sono previsti fenomeni significativi ai fini dell’allertamento, tuttavia non si escludono rovesci o temporali sparsi di breve durata lungo la fascia appenninica occidentale, con possibili effetti associati occasionali.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "1c03542c4ba2f28b26bf",
       "title": "Allerta 100/2026 valida dalle 00:00 del 18/10/2026: temporali",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4844114/allerta100_2026.pdf",
@@ -727,16 +737,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4757265/bollettino147_2026.pdf",
       "date": "2026-09-25T11:49:18+00:00",
       "description": "Per il periodo da sabato 26 a lunedì 28 settembre, compresi, non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "9d2be4decec115135856",
-      "title": "Bollettino di vigilanza 146/2026 valido dalle 00:00 del 25/09/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4753136/bollettino146_2026.pdf",
-      "date": "2026-09-24T11:49:13+00:00",
-      "description": "Per venerdì 25 settembre 2026 non sono previsti fenomeni significativi ai fini dell'allertamento. Tuttavia nelle prime ore della notte, lungo la costa, è previsto un temporaneo rinforzo dei venti da est fino a forti (50-61 Km/h) con possibili raffiche di inten",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
