@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T01:03:45.957824+00:00",
+  "updated_at": "2026-10-18T05:54:56.544276+00:00",
   "items": [
     {
       "id": "9b51bdb411b47e03c565",
@@ -602,6 +602,16 @@
       "quartiere": ""
     },
     {
+      "id": "8bec883d0a0427d9dff5",
+      "title": "Lavori in VIA MASSIMO D'AZEGLIO",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-10-05T22:00:00+00:00",
+      "description": "Ripristino localizzato della pavimentazione stradale",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "Porto-Saragozza"
+    },
+    {
       "id": "3a991b14b152b8a01d51",
       "title": "Lavori in VIA LARGA",
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
@@ -690,6 +700,16 @@
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "San Donato-San Vitale"
+    },
+    {
+      "id": "e4ea67ff25b8d4a3dcd9",
+      "title": "Lavori in VIA OTELLO BONVICINI",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-09-27T22:00:00+00:00",
+      "description": "Rifacimento della pavimentazione dei marciapiedi e realizzazione scivoli disabili",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "Navile"
     },
     {
       "id": "e2920759e7de8dd65e01",
