@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T07:47:39.091337+00:00",
+  "updated_at": "2026-10-19T15:37:14.142868+00:00",
   "items": [
     {
       "id": "9b51bdb411b47e03c565",
@@ -482,6 +482,16 @@
       "quartiere": "Porto-Saragozza"
     },
     {
+      "id": "0e730f9782578d0d7fa7",
+      "title": "Allerta 101/2026 valida dalle 00:00 del 20/10/2026: frane e piene dei corsi minori, temporali, vento, stato del mare",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4856457/allerta101_2026.pdf",
+      "date": "2026-10-19T11:45:56+00:00",
+      "description": "Allerta +++GIALLA+++ per +++frane e piene dei corsi minori+++ nelle province di PC, PR, RE, MO, BO; +++temporali+++ nelle province di PC, PR RE, MO, BO; +++vento+++ nelle province di PC, PR RE, MO, BO, RA, FC, RN; +++stato del mare+++ nelle province di FE, RA,",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "eb148f01e6670b1975f2",
       "title": "Bollettino di vigilanza 165/2026 valido dalle 00:00 del 19/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4852187/bollettino165_2026.pdf",
@@ -730,16 +740,6 @@
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "San Donato-San Vitale"
-    },
-    {
-      "id": "43556bd57cb43a8d61bf",
-      "title": "Bollettino di vigilanza 147/2026 valido dalle 00:00 del 26/09/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4757265/bollettino147_2026.pdf",
-      "date": "2026-09-25T11:49:18+00:00",
-      "description": "Per il periodo da sabato 26 a lunedì 28 settembre, compresi, non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
     },
     {
       "id": "d81780c2ad191dfce6ca",
