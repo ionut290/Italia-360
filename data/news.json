@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T06:01:58.322703+00:00",
+  "updated_at": "2026-10-20T11:38:14.583767+00:00",
   "items": [
     {
       "id": "c6c39b858579891461df",
@@ -492,6 +492,16 @@
       "quartiere": "Porto-Saragozza"
     },
     {
+      "id": "bc233dfd207fd6cd60b2",
+      "title": "Allerta 102/2026 valida dalle 00:00 del 21/10/2026: piene dei fiumi, frane e piene dei corsi minori, vento e altri fenomeni.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4860687/allerta102_2026.pdf",
+      "date": "2026-10-20T11:48:39+00:00",
+      "description": "Allerta +++GIALLA+++ per +++piene dei fiumi+++ nelle province di PR, RE, MO; +++frane e piene dei corsi minori+++ nelle province di PC, PR, RE, MO, BO; +++vento+++ nelle province di PC, PR RE, MO, BO, RA, FC, RN; +++stato del mare+++ nella provincia di FE; +++",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "0e730f9782578d0d7fa7",
       "title": "Allerta 101/2026 valida dalle 00:00 del 20/10/2026: frane e piene dei corsi minori, temporali, vento, stato del mare",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4856457/allerta101_2026.pdf",
@@ -697,16 +707,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4773479/bollettino149_2026.pdf",
       "date": "2026-09-29T12:00:53+00:00",
       "description": "Per mercoledì 30 settembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "9a6537664b490194025b",
-      "title": "Bollettino di vigilanza 148/2026 valido dalle 00:00 del 29/09/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4769344/bollettino148_2026.pdf",
-      "date": "2026-09-28T11:39:42+00:00",
-      "description": "Per martedì 29 settembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
