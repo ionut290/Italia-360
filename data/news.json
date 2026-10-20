@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T20:36:06.781842+00:00",
+  "updated_at": "2026-10-20T23:53:36.295230+00:00",
   "items": [
     {
       "id": "c6c39b858579891461df",
@@ -730,16 +730,6 @@
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "San Donato-San Vitale"
-    },
-    {
-      "id": "e4ea67ff25b8d4a3dcd9",
-      "title": "Lavori in VIA OTELLO BONVICINI",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-09-27T22:00:00+00:00",
-      "description": "Rifacimento della pavimentazione dei marciapiedi e realizzazione scivoli disabili",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Navile"
     },
     {
       "id": "e2920759e7de8dd65e01",
