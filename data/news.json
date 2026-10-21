@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T23:53:36.295230+00:00",
+  "updated_at": "2026-10-21T04:49:33.741834+00:00",
   "items": [
     {
       "id": "c6c39b858579891461df",
@@ -10,6 +10,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "0c6d15745b5ddaf7d935",
+      "title": "L'Opera nel Ridotto - La Traviata",
+      "url": "https://culturabologna.it/events/577076",
+      "date": "2027-02-16T00:00:00+00:00",
+      "description": "ERF#StignaniMusica | Stagione 2026/2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
     },
     {
       "id": "9b51bdb411b47e03c565",
@@ -50,6 +60,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "bcf12c82c90ef21ff3a5",
+      "title": "Nelson Goerner",
+      "url": "https://culturabologna.it/events/577086",
+      "date": "2027-02-12T00:00:00+00:00",
+      "description": "ERF#StignaniMusica | Stagione 2026/2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
     },
     {
       "id": "d858f44eafa59988a8fc",
@@ -200,6 +220,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "1f34fdd8de6d941bde97",
+      "title": "Il chilometro lanciato. Fangio “El Inmortal”",
+      "url": "https://culturabologna.it/events/577046",
+      "date": "2027-02-04T00:00:00+00:00",
+      "description": "Erf@CasseroMusica | Stagione 2026/2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
     },
     {
       "id": "ed72a974a87494f56da0",
@@ -400,96 +430,6 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Santo Stefano"
-    },
-    {
-      "id": "c7f35e364c86ab41b6e3",
-      "title": "ON-OFF",
-      "url": "https://culturabologna.it/events/574587",
-      "date": "2027-01-21T00:00:00+00:00",
-      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "8bef3a62c644cfd31887",
-      "title": "sdisOrè",
-      "url": "https://culturabologna.it/events/575913",
-      "date": "2027-01-20T00:00:00+00:00",
-      "description": "spettacolo di TPE/Gruppo UROR | ITC Teatro 2026/2027 - Contemporaneo",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "ad0a9ccdb37118d2d6e4",
-      "title": "Pierino e il Lupo con Vito",
-      "url": "https://culturabologna.it/events/573122",
-      "date": "2027-01-17T00:00:00+00:00",
-      "description": "Stagione per famiglie e scuole 2026-2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "b8e2c9e3a1b7c266e207",
-      "title": "Storia di un uomo e della sua ombra Mannaggia ‘a mort",
-      "url": "https://culturabologna.it/events/574585",
-      "date": "2027-01-17T00:00:00+00:00",
-      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "aa953982d9b84f292c02",
-      "title": "TIKETAK Piccololorso ha una sorellina",
-      "url": "https://culturabologna.it/events/574438",
-      "date": "2027-01-16T00:00:00+00:00",
-      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "7ac7c0503f25129bc3f8",
-      "title": "Ultimo round . Storia del pugile sinti Johann ‘Rukelie’",
-      "url": "https://culturabologna.it/events/574435",
-      "date": "2027-01-15T00:00:00+00:00",
-      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "c527f816c50310070e72",
-      "title": "La moglie fantasma. Maria Grazia Cucinotta e Pino Quartullo",
-      "url": "https://culturabologna.it/events/574312",
-      "date": "2027-01-15T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "83d9ce15ae5523f7c730",
-      "title": "Intenti poetici: riflessioni sulla poesia classica cinese",
-      "url": "https://culturabologna.it/events/576559",
-      "date": "2027-01-15T00:00:00+00:00",
-      "description": "ciclo di incontri sulla poesia classica cinese con Melinda Pirazzoli",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Santo Stefano"
-    },
-    {
-      "id": "2b5be3cbf07f06878324",
-      "title": "Tu sei la foresta. Un viaggio iniziatico tra visibile e invisibile",
-      "url": "https://culturabologna.it/events/574309",
-      "date": "2027-01-14T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
     },
     {
       "id": "bc233dfd207fd6cd60b2",
