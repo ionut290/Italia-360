@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T19:20:42.826632+00:00",
+  "updated_at": "2026-10-21T23:20:42.130141+00:00",
   "items": [
     {
       "id": "c6c39b858579891461df",
@@ -667,16 +667,6 @@
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
       "date": "2026-09-27T22:00:00+00:00",
       "description": "Lavori di posa della rete del teleriscaldamento Hera",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "San Donato-San Vitale"
-    },
-    {
-      "id": "cfe695ecfac0dcd46ec4",
-      "title": "Lavori in VIA CADUTI DELLA VIA FANI",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-09-27T22:00:00+00:00",
-      "description": "Lavori di posa della rete del tele riscaldamento",
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "San Donato-San Vitale"
