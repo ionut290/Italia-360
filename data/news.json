@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T04:49:33.741834+00:00",
+  "updated_at": "2026-10-21T10:09:40.273142+00:00",
   "items": [
     {
       "id": "c6c39b858579891461df",
@@ -432,6 +432,16 @@
       "quartiere": "Santo Stefano"
     },
     {
+      "id": "dcc35e751fb96cd08707",
+      "title": "Bollettino di vigilanza 166/2026 valido dalle 00:00 del 22/10/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4860913/bollettino166_2026.pdf",
+      "date": "2026-10-21T11:35:49+00:00",
+      "description": "Per giovedì 22 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "bc233dfd207fd6cd60b2",
       "title": "Allerta 102/2026 valida dalle 00:00 del 21/10/2026: piene dei fiumi, frane e piene dei corsi minori, vento e altri fenomeni.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4860687/allerta102_2026.pdf",
@@ -450,6 +460,16 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
+    },
+    {
+      "id": "000aaa47951addc235b1",
+      "title": "Lavori in VIA CARLO JUSSI",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-10-18T22:00:00+00:00",
+      "description": "Rifacimento della pavimentazione dei marciapiedi",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "Navile"
     },
     {
       "id": "eb148f01e6670b1975f2",
@@ -637,16 +657,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4777648/bollettino150_2026.pdf",
       "date": "2026-09-30T11:42:47+00:00",
       "description": "Per giovedì 1 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "589a5a29ae3bfb4b3f6a",
-      "title": "Bollettino di vigilanza 149/2026 valido dalle 00:00 del 30/09/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4773479/bollettino149_2026.pdf",
-      "date": "2026-09-29T12:00:53+00:00",
-      "description": "Per mercoledì 30 settembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
