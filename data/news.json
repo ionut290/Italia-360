@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T04:50:51.560910+00:00",
+  "updated_at": "2026-10-23T10:04:37.322024+00:00",
   "items": [
     {
       "id": "b93a1e498435184d4063",
@@ -332,6 +332,16 @@
       "quartiere": "Navile"
     },
     {
+      "id": "0e8ef21d44fc84131239",
+      "title": "Bollettino di vigilanza 168/2026 valido dalle 00:00 del 24/10/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4869224/bollettino168_2026.pdf",
+      "date": "2026-10-23T11:40:26+00:00",
+      "description": "Per la giornata di sabato 24 ottobre non sono previsti fenomeni rilevanti ai fini dell'allertamento, tuttavia non si escludono rovesci o temporali sparsi di breve durata sul settore orientale, con possibili effetti associati occasionali.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "07e1401e5ae0c99fe0fb",
       "title": "Bollettino di vigilanza 167/2026 valido dalle 00:00 del 23/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4865112/bollettino167_2026.pdf",
@@ -547,16 +557,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4782219/bollettino152_2026.pdf",
       "date": "2026-10-02T11:36:59+00:00",
       "description": "Per le giornate di sabato 3, domenica 4 e lunedì 5 ottobre non si prevedono fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "32a86c297d501c05252e",
-      "title": "Bollettino di vigilanza 151/2026 valido dalle 00:00 del 02/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4782026/bollettino151_2026.pdf",
-      "date": "2026-10-01T12:04:28+00:00",
-      "description": "Per venerdì 2 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
