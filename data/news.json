@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T19:14:07.194131+00:00",
+  "updated_at": "2026-10-23T22:14:18.447250+00:00",
   "items": [
     {
       "id": "b93a1e498435184d4063",
@@ -362,6 +362,16 @@
       "quartiere": ""
     },
     {
+      "id": "ffcb71f8df45a67e8463",
+      "title": "Sciopero generale nazionale USB di venerdì 30 ottobre: modalità per i servizi Tper",
+      "url": "https://www.tper.it/sciopero30ottobre2026",
+      "date": "2026-10-20T14:19:25+02:00",
+      "description": "SERVIZI DI BUS TPER DI BOLOGNA E FERRARA NON GARANTITI DALLE ORE 8.30 ALLE ORE 16.30 E DALLE ORE 19.30 A FINE SERVIZIO &nbsp; Per l’intera giornata di venerdì 30 ottobre l’organizzazione sindacale USB ha proclamato uno sciopero generale nazionale di tutti i se",
+      "source": "TPER Bologna",
+      "category": "Trasporti",
+      "quartiere": ""
+    },
+    {
       "id": "bc233dfd207fd6cd60b2",
       "title": "Allerta 102/2026 valida dalle 00:00 del 21/10/2026: piene dei fiumi, frane e piene dei corsi minori, vento e altri fenomeni.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4860687/allerta102_2026.pdf",
@@ -380,16 +390,6 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
-    },
-    {
-      "id": "000aaa47951addc235b1",
-      "title": "Lavori in VIA CARLO JUSSI",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-10-18T22:00:00+00:00",
-      "description": "Rifacimento della pavimentazione dei marciapiedi",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Navile"
     },
     {
       "id": "eb148f01e6670b1975f2",
@@ -520,16 +520,6 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
-    },
-    {
-      "id": "8bec883d0a0427d9dff5",
-      "title": "Lavori in VIA MASSIMO D'AZEGLIO",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-10-05T22:00:00+00:00",
-      "description": "Ripristino localizzato della pavimentazione stradale",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Porto-Saragozza"
     },
     {
       "id": "3a991b14b152b8a01d51",
