@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-23T22:14:18.447250+00:00",
+  "updated_at": "2026-10-24T00:45:35.609954+00:00",
   "items": [
+    {
+      "id": "fb880307b5d2c8fac60a",
+      "title": "Cappuccetto rosso",
+      "url": "https://culturabologna.it/events/577311",
+      "date": "2027-02-21T00:00:00+00:00",
+      "description": "MedicinaTeatro | Stagione 2026/2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
+    },
     {
       "id": "b93a1e498435184d4063",
       "title": "Arrivato a questo punto. Gioele Dix",
