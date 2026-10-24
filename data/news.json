@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-24T00:45:35.609954+00:00",
+  "updated_at": "2026-10-24T05:55:21.344129+00:00",
   "items": [
+    {
+      "id": "491bc9a4eb22abe6f2f4",
+      "title": "Chat Pile + Guests",
+      "url": "https://culturabologna.it/events/577626",
+      "date": "2027-02-21T00:00:00+00:00",
+      "description": "Locomotiv | Eventi stagione 2026/27",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Navile"
+    },
     {
       "id": "fb880307b5d2c8fac60a",
       "title": "Cappuccetto rosso",
@@ -162,6 +172,16 @@
       "quartiere": "Porto-Saragozza"
     },
     {
+      "id": "07fac7a0862d97d68377",
+      "title": "Pain of Truth + Big Boy + Headbussa",
+      "url": "https://culturabologna.it/events/577623",
+      "date": "2027-02-11T00:00:00+00:00",
+      "description": "Locomotiv | Eventi stagione 2026/27",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Navile"
+    },
+    {
       "id": "579f44a294b0c3c5c91d",
       "title": "L’epoca della rabbia. Storie di ragazzi che uccidono all’ombra di Narciso",
       "url": "https://culturabologna.it/events/574350",
@@ -180,6 +200,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Santo Stefano"
+    },
+    {
+      "id": "7f6a43e78eeb12d30cee",
+      "title": "Birthh",
+      "url": "https://culturabologna.it/events/577620",
+      "date": "2027-02-09T00:00:00+00:00",
+      "description": "Locomotiv | Eventi stagione 2026/27",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Navile"
     },
     {
       "id": "b79a079b806aea638d28",
@@ -260,86 +290,6 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": ""
-    },
-    {
-      "id": "d040a5d188d4ba6616dd",
-      "title": "LA PAPPA DEL PANDA",
-      "url": "https://culturabologna.it/events/574602",
-      "date": "2027-02-06T00:00:00+00:00",
-      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "b69067734a7fea1749bc",
-      "title": "Qart Hadasht",
-      "url": "https://culturabologna.it/events/573110",
-      "date": "2027-02-05T00:00:00+00:00",
-      "description": "Caro teatro, ti scrivo....| Stagione 2026-2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "7a4a419d7a0a85f22a7e",
-      "title": "Qart Hadasht",
-      "url": "https://culturabologna.it/events/571668",
-      "date": "2027-02-05T00:00:00+00:00",
-      "description": "Caro teatro, ti scrivo....| Stagione 2026-2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "cbf0f31f43aa2c8e084e",
-      "title": "La Festa",
-      "url": "https://culturabologna.it/events/574147",
-      "date": "2027-02-04T00:00:00+00:00",
-      "description": "Opera aperta. Teatro Arena del Sole e Teatro delle Moline | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "1f34fdd8de6d941bde97",
-      "title": "Il chilometro lanciato. Fangio “El Inmortal”",
-      "url": "https://culturabologna.it/events/577046",
-      "date": "2027-02-04T00:00:00+00:00",
-      "description": "Erf@CasseroMusica | Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "7df4d809d890f61d9ef3",
-      "title": "Steve Mozz",
-      "url": "https://culturabologna.it/events/577417",
-      "date": "2027-02-03T00:00:00+00:00",
-      "description": "Locomotiv | Eventi stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "ed72a974a87494f56da0",
-      "title": "Alla scoperta di Morricone VOL.3. Ensemble Symphony Orchestra",
-      "url": "https://culturabologna.it/events/574336",
-      "date": "2027-02-03T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "2cc8df5f40609d3a2e55",
-      "title": "Spanish Love Songs",
-      "url": "https://culturabologna.it/events/577414",
-      "date": "2027-02-02T00:00:00+00:00",
-      "description": "Locomotiv | Eventi stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
     },
     {
       "id": "0e8ef21d44fc84131239",
@@ -642,6 +592,16 @@
       "quartiere": ""
     },
     {
+      "id": "b69484e2a7b016c311bb",
+      "title": "Lavori in VIA ALTURA",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-07-30T22:00:00+00:00",
+      "description": "Lavori di riqualificazione stradale.",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "Savena"
+    },
+    {
       "id": "47c24f54ff580c83a4d1",
       "title": "Lavori in VIA CALDARESE",
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
@@ -660,6 +620,16 @@
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "Santo Stefano"
+    },
+    {
+      "id": "ddce6407173dc6ff93ce",
+      "title": "Lavori in VIA PAOLO BOVI CAMPEGGI",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-06-28T22:00:00+00:00",
+      "description": "Lavori di manutenzione di un tratto del Canale Navile",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": ""
     },
     {
       "id": "b524628281cb728a6773",
