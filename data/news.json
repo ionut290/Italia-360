@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T05:55:21.344129+00:00",
+  "updated_at": "2026-10-24T11:02:21.240332+00:00",
   "items": [
     {
       "id": "491bc9a4eb22abe6f2f4",
@@ -292,6 +292,16 @@
       "quartiere": ""
     },
     {
+      "id": "f4aa06c33e1ac701e587",
+      "title": "Bollettino di vigilanza 169/2026 valido dalle 00:00 del 25/10/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4878145/bollettino169_2026.pdf",
+      "date": "2026-10-24T11:38:35+00:00",
+      "description": "Per le giornate di domenica 25 e lunedì 26 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "0e8ef21d44fc84131239",
       "title": "Bollettino di vigilanza 168/2026 valido dalle 00:00 del 24/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4869224/bollettino168_2026.pdf",
@@ -497,16 +507,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4798502/bollettino153_2026.pdf",
       "date": "2026-10-05T12:08:42+00:00",
       "description": "Per martedì 6 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "d4034fcfbfdab083e0dd",
-      "title": "Bollettino di vigilanza 152/2026 valido dalle 00:00 del 03/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4782219/bollettino152_2026.pdf",
-      "date": "2026-10-02T11:36:59+00:00",
-      "description": "Per le giornate di sabato 3, domenica 4 e lunedì 5 ottobre non si prevedono fenomeni significativi ai fini dell'allertamento.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
