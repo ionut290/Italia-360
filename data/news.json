@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T01:15:24.535353+00:00",
+  "updated_at": "2026-10-25T06:13:24.620256+00:00",
   "items": [
     {
       "id": "002a7f6c1af251bae4db",
@@ -57,6 +57,16 @@
       "url": "https://culturabologna.it/events/571674",
       "date": "2027-02-20T00:00:00+00:00",
       "description": "Caro teatro, ti scrivo....| Stagione 2026-2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
+    },
+    {
+      "id": "d3b49cd17ce3e23fa3a6",
+      "title": "Dåu mujêr äli én pîz che ónna!",
+      "url": "https://culturabologna.it/events/577845",
+      "date": "2027-02-18T00:00:00+00:00",
+      "description": "Compagnia Dialettale Bolognese Bruno Lanzarini",
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": ""
@@ -282,26 +292,6 @@
       "quartiere": ""
     },
     {
-      "id": "f7236ddbf838e0afd3eb",
-      "title": "Prima della prima. Il mio viaggio nei sentimenti",
-      "url": "https://culturabologna.it/events/574347",
-      "date": "2027-02-06T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "504f8c7b44d896a283c3",
-      "title": "Oliviero",
-      "url": "https://culturabologna.it/events/576861",
-      "date": "2027-02-06T00:00:00+00:00",
-      "description": "Teatro dei Borgia",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
       "id": "f4aa06c33e1ac701e587",
       "title": "Bollettino di vigilanza 169/2026 valido dalle 00:00 del 25/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4878145/bollettino169_2026.pdf",
@@ -370,6 +360,16 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
+    },
+    {
+      "id": "000aaa47951addc235b1",
+      "title": "Lavori in VIA CARLO JUSSI",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-10-18T22:00:00+00:00",
+      "description": "Rifacimento della pavimentazione dei marciapiedi",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "Navile"
     },
     {
       "id": "eb148f01e6670b1975f2",
@@ -617,16 +617,6 @@
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
       "date": "2026-07-19T22:00:00+00:00",
       "description": "Lavori di riqualificazione della pavimentazione stradale in materiale lapideo",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Santo Stefano"
-    },
-    {
-      "id": "0ab8bf5bd5b78557c401",
-      "title": "Lavori in VIA SAN VITTORE",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-07-12T22:00:00+00:00",
-      "description": "Interventi di messa in sicurezza quali lavori post alluvione.",
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "Santo Stefano"
