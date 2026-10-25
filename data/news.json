@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-24T23:15:43.306277+00:00",
+  "updated_at": "2026-10-25T01:15:24.535353+00:00",
   "items": [
+    {
+      "id": "002a7f6c1af251bae4db",
+      "title": "Arcadi Volodos",
+      "url": "https://culturabologna.it/events/568233",
+      "date": "2027-02-22T00:00:00+00:00",
+      "description": "Musica Insieme | I Concerti 2026|2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Porto-Saragozza"
+    },
     {
       "id": "491bc9a4eb22abe6f2f4",
       "title": "Chat Pile + Guests",
