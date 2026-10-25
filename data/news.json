@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T19:38:01.081213+00:00",
+  "updated_at": "2026-10-25T22:33:53.580576+00:00",
   "items": [
     {
       "id": "002a7f6c1af251bae4db",
@@ -329,6 +329,16 @@
       "description": "Per giovedì 22 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
+      "id": "1fdcb4b0bf5ce0df2c62",
+      "title": "Commemorazione dei defunti: potenziati i servizi di bus per tre cimiteri",
+      "url": "https://www.tper.it/cimiteri2026",
+      "date": "2026-10-20T15:03:14+02:00",
+      "description": "A Bologna sabato 31 ottobre e lunedì 2 novembre sarà attiva la linea 76 per il cimitero della Certosa; nei giorni 1 e 2 novembre servizi dedicati di bus per i cimiteri di Imola e Porretta Terme &nbsp; Nelle giornate di sabato 31 ottobre e lunedì 2 novembre , a",
+      "source": "TPER Bologna",
+      "category": "Trasporti",
       "quartiere": ""
     },
     {
@@ -770,16 +780,6 @@
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "San Donato-San Vitale"
-    },
-    {
-      "id": "b7288f4c6f6b94ac49e9",
-      "title": "Inserimento scolastico dei profughi ucraini",
-      "url": "https://www.tper.it/content/inserimento-scolastico-dei-profughi-ucraini",
-      "date": "2022-04-07T11:58:06+02:00",
-      "description": "Per la gestione dell'emergenza profughi dall'Ucraina, la Regione Emilia-Romagna, di concerto con le quattro aziende del trasporto pubblico emiliano-romagnole, ha messo in campo alcuni interventi mirati in particolare alla popolazione scolastica in fuga dalla g",
-      "source": "TPER Bologna",
-      "category": "Trasporti",
-      "quartiere": ""
     },
     {
       "id": "c6b580a6748980807765",
