@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:21:11.094222+00:00",
+  "updated_at": "2026-10-26T23:54:05.465838+00:00",
   "items": [
     {
       "id": "1f231a39a033d9dc248e",
@@ -390,16 +390,6 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
-    },
-    {
-      "id": "000aaa47951addc235b1",
-      "title": "Lavori in VIA CARLO JUSSI",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-10-18T22:00:00+00:00",
-      "description": "Rifacimento della pavimentazione dei marciapiedi",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Navile"
     },
     {
       "id": "eb148f01e6670b1975f2",
