@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T06:15:14.004458+00:00",
+  "updated_at": "2026-10-26T13:14:28.387962+00:00",
   "items": [
     {
       "id": "1f231a39a033d9dc248e",
@@ -302,6 +302,16 @@
       "quartiere": ""
     },
     {
+      "id": "7099a936508dba48c2c7",
+      "title": "Bollettino di vigilanza 170/2026 valido dalle 00:00 del 27/10/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4886403/bollettino170_2026.pdf",
+      "date": "2026-10-26T11:38:18+00:00",
+      "description": "Per martedì 27 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "f4aa06c33e1ac701e587",
       "title": "Bollettino di vigilanza 169/2026 valido dalle 00:00 del 25/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4878145/bollettino169_2026.pdf",
@@ -530,16 +540,6 @@
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "San Donato-San Vitale"
-    },
-    {
-      "id": "c193e99fe5bc38293508",
-      "title": "Bollettino di vigilanza 153/2026 valido dalle 00:00 del 06/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4798502/bollettino153_2026.pdf",
-      "date": "2026-10-05T12:08:42+00:00",
-      "description": "Per martedì 6 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
     },
     {
       "id": "ea3edbee6c67f21b1de1",
