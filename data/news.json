@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T10:35:22.732084+00:00",
+  "updated_at": "2026-10-27T16:40:17.141436+00:00",
   "items": [
     {
       "id": "f7ba02b2bd083d58333f",
@@ -312,6 +312,16 @@
       "quartiere": ""
     },
     {
+      "id": "a4de306181ac6793bd73",
+      "title": "Bollettino di vigilanza 171/2026 valido dalle 00:00 del 28/10/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4891189/bollettino171_2026.pdf",
+      "date": "2026-10-27T11:36:46+00:00",
+      "description": "Per mercoledì 28 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "7099a936508dba48c2c7",
       "title": "Bollettino di vigilanza 170/2026 valido dalle 00:00 del 27/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4886403/bollettino170_2026.pdf",
@@ -517,16 +527,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4800739/bollettino155_2026.pdf",
       "date": "2026-10-07T11:41:22+00:00",
       "description": "Per giovedì 8 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento. Tuttavia, dalle ore pomeridiane, non si escludono fenomeni temporaleschi, localmente anche di forte intensità, più probabili sulle aree appenniniche con possibili effetti",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "ef034d3968e1699a8088",
-      "title": "Bollettino di vigilanza 154/2026 valido dalle 00:00 del 07/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4802591/bollettino154_2026.pdf",
-      "date": "2026-10-06T11:43:14+00:00",
-      "description": "Per la giornata di mercoledì 7 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento. Tuttavia, dalle ore pomeridiane, non si escludono fenomeni temporaleschi, localmente anche di forte intensità, più probabili sulle aree appenniniche con ",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
