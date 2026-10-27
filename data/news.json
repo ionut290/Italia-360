@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T05:06:29.091221+00:00",
+  "updated_at": "2026-10-27T10:35:22.732084+00:00",
   "items": [
     {
       "id": "f7ba02b2bd083d58333f",
@@ -672,16 +672,6 @@
       "quartiere": ""
     },
     {
-      "id": "92d477bcb135eccb0d04",
-      "title": "Chiusura punto Tper – Silla",
-      "url": "https://www.tper.it/news/chiusura-punto-tper-silla",
-      "date": "2026-02-16T08:54:28+01:00",
-      "description": "Si informa che il Punto Tper di Silla , nel Comune di Castel di Casio , resterà chiuso al pubblico dal 20 al 26 ottobre 2026 . Il servizio riprenderà regolarmente secondo i consueti orari di apertura a partire dal giorno successivo.",
-      "source": "TPER Bologna",
-      "category": "Trasporti",
-      "quartiere": ""
-    },
-    {
       "id": "0870679cd6e6b3a0b0a5",
       "title": "Ecoticket gratuito per caregiver familiari a Bologna",
       "url": "https://www.tper.it/content/ecoticket-gratuito-caregiver-familiari-bologna",
@@ -790,6 +780,16 @@
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "San Donato-San Vitale"
+    },
+    {
+      "id": "b7288f4c6f6b94ac49e9",
+      "title": "Inserimento scolastico dei profughi ucraini",
+      "url": "https://www.tper.it/content/inserimento-scolastico-dei-profughi-ucraini",
+      "date": "2022-04-07T11:58:06+02:00",
+      "description": "Per la gestione dell'emergenza profughi dall'Ucraina, la Regione Emilia-Romagna, di concerto con le quattro aziende del trasporto pubblico emiliano-romagnole, ha messo in campo alcuni interventi mirati in particolare alla popolazione scolastica in fuga dalla g",
+      "source": "TPER Bologna",
+      "category": "Trasporti",
+      "quartiere": ""
     },
     {
       "id": "c6b580a6748980807765",
