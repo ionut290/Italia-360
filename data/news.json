@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T01:23:23.647348+00:00",
+  "updated_at": "2026-10-28T08:33:46.383959+00:00",
   "items": [
     {
       "id": "86b2d62ab57f3be3e833",
@@ -350,6 +350,16 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
+    },
+    {
+      "id": "f2a97d6c8b2cf35482a2",
+      "title": "Lavori in VIA ABRUZZO",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-10-25T23:00:00+00:00",
+      "description": "Rifacimento di tratto della pavimentazione dei marciapiedi",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "Savena"
     },
     {
       "id": "f4aa06c33e1ac701e587",
