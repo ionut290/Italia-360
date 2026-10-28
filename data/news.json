@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T08:33:46.383959+00:00",
+  "updated_at": "2026-10-28T16:03:54.919627+00:00",
   "items": [
     {
       "id": "86b2d62ab57f3be3e833",
@@ -332,6 +332,16 @@
       "quartiere": ""
     },
     {
+      "id": "4cde016b675a1bd587a0",
+      "title": "Bollettino di vigilanza 172/2026 valido dalle 00:00 del 29/10/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4895475/bollettino172_2026.pdf",
+      "date": "2026-10-28T11:41:40+00:00",
+      "description": "Per giovedì 29 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento. Tuttavia dalla tarda serata si prevede un progressivo rinforzo della ventilazione con temporaneo aumento del moto ondoso al largo. Lungo il settore costiero meridionale ",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "a4de306181ac6793bd73",
       "title": "Bollettino di vigilanza 171/2026 valido dalle 00:00 del 28/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4891189/bollettino171_2026.pdf",
@@ -416,7 +426,7 @@
       "title": "Sciopero generale nazionale USB di venerdì 30 ottobre: modalità per i servizi Tper",
       "url": "https://www.tper.it/sciopero30ottobre2026",
       "date": "2026-10-20T14:19:25+02:00",
-      "description": "SERVIZI DI BUS TPER DI BOLOGNA E FERRARA NON GARANTITI DALLE ORE 8.30 ALLE ORE 16.30 E DALLE ORE 19.30 A FINE SERVIZIO &nbsp; Per l’intera giornata di venerdì 30 ottobre l’organizzazione sindacale USB ha proclamato uno sciopero generale nazionale di tutti i se",
+      "description": "Serizi di bus Tper di Bologna e Ferrara non garantiti dalle 8:30 alle 16:30 e dalle 19:30 a fine servizio Per l’intera giornata di venerdì 30 ottobre l’organizzazione sindacale USB ha proclamato uno sciopero generale nazionale di tutti i settori pubblici e pri",
       "source": "TPER Bologna",
       "category": "Trasporti",
       "quartiere": ""
@@ -547,16 +557,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4800797/bollettino156_2026.pdf",
       "date": "2026-10-08T11:46:59+00:00",
       "description": "Per venerdì 9 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento. Tuttavia non si escludono fenomeni temporaleschi, localmente anche di forte intensità, più probabili nel pomeriggio sul settore centro-orientale con possibili effetti e d",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "37a3d3d6f344b3e6a3d4",
-      "title": "Bollettino di vigilanza 155/2026 valido dalle 00:00 del 08/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4800739/bollettino155_2026.pdf",
-      "date": "2026-10-07T11:41:22+00:00",
-      "description": "Per giovedì 8 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento. Tuttavia, dalle ore pomeridiane, non si escludono fenomeni temporaleschi, localmente anche di forte intensità, più probabili sulle aree appenniniche con possibili effetti",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
