@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-27T21:20:36.272242+00:00",
+  "updated_at": "2026-10-28T01:23:23.647348+00:00",
   "items": [
+    {
+      "id": "86b2d62ab57f3be3e833",
+      "title": "Autodifesa di Caino",
+      "url": "https://culturabologna.it/events/574168",
+      "date": "2027-02-25T00:00:00+00:00",
+      "description": "Opera aperta. Teatro Arena del Sole e Teatro delle Moline | Stagione 2026/27",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "5d918f86ee3831170e94",
+      "title": "Il cotto il crudo. Emilio Solfrizzi e Antonio Stornaiolo",
+      "url": "https://culturabologna.it/events/574378",
+      "date": "2027-02-25T00:00:00+00:00",
+      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Porto-Saragozza"
+    },
     {
       "id": "f7ba02b2bd083d58333f",
       "title": "Feminae a Teatro. Tosca",
