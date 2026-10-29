@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-28T21:05:57.915096+00:00",
+  "updated_at": "2026-10-29T00:57:56.671826+00:00",
   "items": [
+    {
+      "id": "7bae5a1e1f0b7dd4744b",
+      "title": "I pianti e i lamenti dei pesci fossili",
+      "url": "https://culturabologna.it/events/574170",
+      "date": "2027-02-26T00:00:00+00:00",
+      "description": "Opera aperta. Teatro Arena del Sole e Teatro delle Moline | Stagione 2026/27",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Santo Stefano"
+    },
+    {
+      "id": "b32f060cde0aef1a9440",
+      "title": "Mixed by Erry. Francesco Di Leva",
+      "url": "https://culturabologna.it/events/574382",
+      "date": "2027-02-26T00:00:00+00:00",
+      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Porto-Saragozza"
+    },
     {
       "id": "86b2d62ab57f3be3e833",
       "title": "Autodifesa di Caino",
