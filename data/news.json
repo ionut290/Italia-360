@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T00:57:56.671826+00:00",
+  "updated_at": "2026-10-29T07:07:06.798140+00:00",
   "items": [
     {
       "id": "7bae5a1e1f0b7dd4744b",
@@ -82,6 +82,16 @@
       "quartiere": "Navile"
     },
     {
+      "id": "e0c484961b695f026477",
+      "title": "Grammatica della fantasia Il museo degli errori",
+      "url": "https://culturabologna.it/events/578061",
+      "date": "2027-02-21T00:00:00+00:00",
+      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Navile"
+    },
+    {
       "id": "fb880307b5d2c8fac60a",
       "title": "Cappuccetto rosso",
       "url": "https://culturabologna.it/events/577311",
@@ -90,6 +100,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": ""
+    },
+    {
+      "id": "a6c685068e5d21d7314e",
+      "title": "I colori dell’acqua",
+      "url": "https://culturabologna.it/events/578059",
+      "date": "2027-02-20T00:00:00+00:00",
+      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Navile"
     },
     {
       "id": "b93a1e498435184d4063",
@@ -162,6 +182,16 @@
       "quartiere": ""
     },
     {
+      "id": "f07c6ebbf536873d16e5",
+      "title": "Una festa bellissima",
+      "url": "https://culturabologna.it/events/578057",
+      "date": "2027-02-14T00:00:00+00:00",
+      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Navile"
+    },
+    {
       "id": "9b51bdb411b47e03c565",
       "title": "Pietro saltatempo",
       "url": "https://culturabologna.it/events/576519",
@@ -197,156 +227,6 @@
       "url": "https://culturabologna.it/events/576517",
       "date": "2027-02-13T00:00:00+00:00",
       "description": "ITC Teatro Stagione Junior 2026-2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "ef55a9e63c2cda579175",
-      "title": "Insieme. Laura Morante",
-      "url": "https://culturabologna.it/events/574365",
-      "date": "2027-02-12T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "bcf12c82c90ef21ff3a5",
-      "title": "Nelson Goerner",
-      "url": "https://culturabologna.it/events/577086",
-      "date": "2027-02-12T00:00:00+00:00",
-      "description": "ERF#StignaniMusica | Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "d858f44eafa59988a8fc",
-      "title": "Fisicamente mi piacciono tutti. Michela Giraud",
-      "url": "https://culturabologna.it/events/574353",
-      "date": "2027-02-11T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "815b5135d79835271436",
-      "title": "IL COCCODRILLO E L’ELEFANTE",
-      "url": "https://culturabologna.it/events/574607",
-      "date": "2027-02-11T00:00:00+00:00",
-      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "7678ff4cb5ecf654ef78",
-      "title": "Otello",
-      "url": "https://culturabologna.it/events/574158",
-      "date": "2027-02-11T00:00:00+00:00",
-      "description": "Opera aperta. Teatro Arena del Sole e Teatro delle Moline | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "07fac7a0862d97d68377",
-      "title": "Pain of Truth + Big Boy + Headbussa",
-      "url": "https://culturabologna.it/events/577623",
-      "date": "2027-02-11T00:00:00+00:00",
-      "description": "Locomotiv | Eventi stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "579f44a294b0c3c5c91d",
-      "title": "L’epoca della rabbia. Storie di ragazzi che uccidono all’ombra di Narciso",
-      "url": "https://culturabologna.it/events/574350",
-      "date": "2027-02-10T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "3204f1ca2ede184c31ed",
-      "title": "Nuda preghiera",
-      "url": "https://culturabologna.it/events/574152",
-      "date": "2027-02-09T00:00:00+00:00",
-      "description": "Opera aperta. Teatro Arena del Sole e Teatro delle Moline | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Santo Stefano"
-    },
-    {
-      "id": "7f6a43e78eeb12d30cee",
-      "title": "Birthh",
-      "url": "https://culturabologna.it/events/577620",
-      "date": "2027-02-09T00:00:00+00:00",
-      "description": "Locomotiv | Eventi stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "b79a079b806aea638d28",
-      "title": "Julian Kainrath e Lilya Zilberstein",
-      "url": "https://culturabologna.it/events/568230",
-      "date": "2027-02-08T00:00:00+00:00",
-      "description": "Musica Insieme | I Concerti 2026|2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "8e261b1b90cea569db38",
-      "title": "Ugly",
-      "url": "https://culturabologna.it/events/577423",
-      "date": "2027-02-08T00:00:00+00:00",
-      "description": "Locomotiv | Eventi stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "521745489bc26634643e",
-      "title": "Cosa Bolle in Orchestra?",
-      "url": "https://culturabologna.it/events/573126",
-      "date": "2027-02-07T00:00:00+00:00",
-      "description": "Stagione per famiglie e scuole 2026-2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "1948458c2a8f48323fcb",
-      "title": "TUONO Il mio vicino gigante",
-      "url": "https://culturabologna.it/events/574604",
-      "date": "2027-02-07T00:00:00+00:00",
-      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "43d924bf24499ae65776",
-      "title": "Ritratto di Bambola",
-      "url": "https://culturabologna.it/events/575939",
-      "date": "2027-02-06T00:00:00+00:00",
-      "description": "spettacolo di e con Elena Bucci | ITC Teatro 2026/2027 - Contemporaneo",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "260d4335861b6cda2476",
-      "title": "Carlo e Giorgio sciò",
-      "url": "https://culturabologna.it/events/576699",
-      "date": "2027-02-06T00:00:00+00:00",
-      "description": "con Carlo Giorgio",
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": ""
