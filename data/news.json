@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T07:07:06.798140+00:00",
+  "updated_at": "2026-10-29T14:21:05.748399+00:00",
   "items": [
     {
       "id": "7bae5a1e1f0b7dd4744b",
@@ -232,6 +232,16 @@
       "quartiere": ""
     },
     {
+      "id": "20ed49f25348ec2fa19f",
+      "title": "Bollettino di vigilanza 173/2026 valido dalle 00:00 del 30/10/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4895719/bollettino173_2026.pdf",
+      "date": "2026-10-29T11:46:10+00:00",
+      "description": "Per venerdì 30 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento. Tuttavia nel corso della giornata si prevede un progressivo rinforzo della ventilazione sul crinale appenninico, sulla costa e sul mare che favorirà anche un aumento del",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "4cde016b675a1bd587a0",
       "title": "Bollettino di vigilanza 172/2026 valido dalle 00:00 del 29/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4895475/bollettino172_2026.pdf",
@@ -317,16 +327,6 @@
       "url": "https://www.tper.it/cimiteri2026",
       "date": "2026-10-20T15:03:14+02:00",
       "description": "A Bologna sabato 31 ottobre e lunedì 2 novembre sarà attiva la linea 76 per il cimitero della Certosa; nei giorni 1 e 2 novembre servizi dedicati di bus per i cimiteri di Imola e Porretta Terme &nbsp; Nelle giornate di sabato 31 ottobre e lunedì 2 novembre , a",
-      "source": "TPER Bologna",
-      "category": "Trasporti",
-      "quartiere": ""
-    },
-    {
-      "id": "ffcb71f8df45a67e8463",
-      "title": "Sciopero generale nazionale USB di venerdì 30 ottobre: modalità per i servizi Tper",
-      "url": "https://www.tper.it/sciopero30ottobre2026",
-      "date": "2026-10-20T14:19:25+02:00",
-      "description": "Serizi di bus Tper di Bologna e Ferrara non garantiti dalle 8:30 alle 16:30 e dalle 19:30 a fine servizio Per l’intera giornata di venerdì 30 ottobre l’organizzazione sindacale USB ha proclamato uno sciopero generale nazionale di tutti i settori pubblici e pri",
       "source": "TPER Bologna",
       "category": "Trasporti",
       "quartiere": ""
@@ -447,16 +447,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4811117/bollettino157_2026.pdf",
       "date": "2026-10-09T11:38:45+00:00",
       "description": "Per sabato 10 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "6f793c8e631dddcc30be",
-      "title": "Bollettino di vigilanza 156/2026 valido dalle 00:00 del 09/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4800797/bollettino156_2026.pdf",
-      "date": "2026-10-08T11:46:59+00:00",
-      "description": "Per venerdì 9 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento. Tuttavia non si escludono fenomeni temporaleschi, localmente anche di forte intensità, più probabili nel pomeriggio sul settore centro-orientale con possibili effetti e d",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
