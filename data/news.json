@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-29T20:19:06.073669+00:00",
+  "updated_at": "2026-10-30T01:00:34.288264+00:00",
   "items": [
+    {
+      "id": "8d56e89771363a0e1f1f",
+      "title": "Il Carretto delle Storie: I Tre Porcellini",
+      "url": "https://culturabologna.it/events/576522",
+      "date": "2027-02-27T00:00:00+00:00",
+      "description": "ITC Teatro Stagione Junior 2026-2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
+    },
+    {
+      "id": "527550030dbc7e2865f3",
+      "title": "Ama, prega, Xanax",
+      "url": "https://culturabologna.it/events/576702",
+      "date": "2027-02-27T00:00:00+00:00",
+      "description": "con Enrica Tesio e Andrea Mirò",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
+    },
+    {
+      "id": "c55b0fe626b832952655",
+      "title": "Il dilemma dei cento girasoli fotovoltaici",
+      "url": "https://culturabologna.it/events/577232",
+      "date": "2027-02-27T00:00:00+00:00",
+      "description": "Matrice Teatro",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
+    },
+    {
+      "id": "05092f1df6f777fc2d88",
+      "title": "Melrose Avenue",
+      "url": "https://culturabologna.it/events/577630",
+      "date": "2027-02-27T00:00:00+00:00",
+      "description": "Locomotiv | Eventi stagione 2026/27",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Navile"
+    },
     {
       "id": "7bae5a1e1f0b7dd4744b",
       "title": "I pianti e i lamenti dei pesci fossili",
