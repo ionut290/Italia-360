@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T07:07:37.111895+00:00",
+  "updated_at": "2026-10-30T14:09:46.127063+00:00",
   "items": [
     {
       "id": "8d56e89771363a0e1f1f",
@@ -252,6 +252,16 @@
       "quartiere": ""
     },
     {
+      "id": "2775e9d71fcea474af1d",
+      "title": "Bollettino di vigilanza 174/2026 valido dalle 00:00 del 31/10/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4899905/bollettino174_2026.pdf",
+      "date": "2026-10-30T11:39:12+00:00",
+      "description": "Per sabato 31 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "20ed49f25348ec2fa19f",
       "title": "Bollettino di vigilanza 173/2026 valido dalle 00:00 del 30/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4895719/bollettino173_2026.pdf",
@@ -457,16 +467,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4811199/bollettino158_2026.pdf",
       "date": "2026-10-10T11:38:21+00:00",
       "description": "Per domenica 11 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "37b98e3f0de27d1c1eab",
-      "title": "Bollettino di vigilanza 157/2026 valido dalle 00:00 del 10/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4811117/bollettino157_2026.pdf",
-      "date": "2026-10-09T11:38:45+00:00",
-      "description": "Per sabato 10 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
