@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T19:23:19.243653+00:00",
+  "updated_at": "2026-10-30T23:48:15.237335+00:00",
   "items": [
     {
       "id": "8d56e89771363a0e1f1f",
@@ -302,16 +302,6 @@
       "quartiere": ""
     },
     {
-      "id": "f2a97d6c8b2cf35482a2",
-      "title": "Lavori in VIA ABRUZZO",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-10-25T23:00:00+00:00",
-      "description": "Rifacimento di tratto della pavimentazione dei marciapiedi",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Savena"
-    },
-    {
       "id": "f4aa06c33e1ac701e587",
       "title": "Bollettino di vigilanza 169/2026 valido dalle 00:00 del 25/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4878145/bollettino169_2026.pdf",
@@ -477,16 +467,6 @@
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
       "date": "2026-10-05T22:00:00+00:00",
       "description": "Lavori di bonifica della rete idrica Hera.",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "San Donato-San Vitale"
-    },
-    {
-      "id": "ea3edbee6c67f21b1de1",
-      "title": "Lavori in VIA ERMETE NOVELLI",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-09-27T22:00:00+00:00",
-      "description": "Lavori di posa della rete del teleriscaldamento Hera",
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "San Donato-San Vitale"
