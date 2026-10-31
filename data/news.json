@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T05:42:39.395070+00:00",
+  "updated_at": "2026-10-31T12:31:42.804720+00:00",
   "items": [
     {
       "id": "178e8f51654e0bdcdb4b",
@@ -222,6 +222,16 @@
       "quartiere": ""
     },
     {
+      "id": "3d280ad7dcdb1b96d4b8",
+      "title": "Allerta 103/2026 valida dalle 00:00 del 01/11/2026: vento, stato del mare",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4899937/allerta103_2026.pdf",
+      "date": "2026-10-31T11:52:57+00:00",
+      "description": "Allerta +++GIALLA+++ per +++vento+++ nelle province di PC, PR, RE, MO, BO, FE, RA, FC, RN e per +++stato del mare+++ nelle province di FE, RA, FC, RN. Per la giornata di domenica 1 novembre sono previsti venti di burrasca moderata (62-74 Km/h) da nord-est con ",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "2775e9d71fcea474af1d",
       "title": "Bollettino di vigilanza 174/2026 valido dalle 00:00 del 31/10/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4899905/bollettino174_2026.pdf",
@@ -422,16 +432,6 @@
       "quartiere": ""
     },
     {
-      "id": "031c8619e25ead0c4c65",
-      "title": "Bollettino di vigilanza 158/2026 valido dalle 00:00 del 11/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4811199/bollettino158_2026.pdf",
-      "date": "2026-10-10T11:38:21+00:00",
-      "description": "Per domenica 11 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
       "id": "3a991b14b152b8a01d51",
       "title": "Lavori in VIA LARGA",
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
@@ -467,16 +467,6 @@
       "url": "https://www.tper.it/news/carta-del-docente-online",
       "date": "2026-09-17T09:35:46+02:00",
       "description": "Da oggi è possibile utilizzare la Carta del docente per acquistare titoli di viaggio Tper nei bacini di Bologna e Ferrara . Tper ha completato sia la registrazione presso il portale nazionale del Ministero sia le procedure informatiche necessarie per abilitare",
-      "source": "TPER Bologna",
-      "category": "Trasporti",
-      "quartiere": ""
-    },
-    {
-      "id": "3b848832d3347193fd52",
-      "title": "Martedì 15 settembre in vigore l'orario invernale Tper: le principali novità",
-      "url": "https://www.tper.it/content/martedi-15-settembre-vigore-lorario-invernale-tper-le-principali-novita",
-      "date": "2026-09-13T17:02:08+02:00",
-      "description": "Come ogni anno, la prima campanella delle scuole trova pronti gli studenti, che riprendono le lezioni, ma anche i bus Tper, che ritornano a pieno regime dopo la riduzione estiva dei servizi. Martedì 15 settembre , infatti, riparte l’orario “invernale” Tper, ca",
       "source": "TPER Bologna",
       "category": "Trasporti",
       "quartiere": ""
