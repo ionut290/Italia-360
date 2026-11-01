@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T01:10:56.079130+00:00",
+  "updated_at": "2026-11-01T07:33:37.370246+00:00",
   "items": [
     {
       "id": "ec42fd41292cce4edd5d",
@@ -82,6 +82,16 @@
       "quartiere": "Porto-Saragozza"
     },
     {
+      "id": "75b7b7f5da9107127fae",
+      "title": "RAFFAELLO CORTI",
+      "url": "https://culturabologna.it/events/578729",
+      "date": "2027-02-26T00:00:00+00:00",
+      "description": "Teatro Dehon | Stagione 2026-2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "San Donato-San Vitale"
+    },
+    {
       "id": "86b2d62ab57f3be3e833",
       "title": "Autodifesa di Caino",
       "url": "https://culturabologna.it/events/574168",
@@ -90,146 +100,6 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "5d918f86ee3831170e94",
-      "title": "Il cotto il crudo. Emilio Solfrizzi e Antonio Stornaiolo",
-      "url": "https://culturabologna.it/events/574378",
-      "date": "2027-02-25T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "f7ba02b2bd083d58333f",
-      "title": "Feminae a Teatro. Tosca",
-      "url": "https://culturabologna.it/events/561963",
-      "date": "2027-02-24T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2025/2026",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "1f231a39a033d9dc248e",
-      "title": "Con viva voce. La storia di Ivan e il lupo grigio",
-      "url": "https://culturabologna.it/events/573128",
-      "date": "2027-02-23T00:00:00+00:00",
-      "description": "Stagione per famiglie e scuole 2026-2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "a3d26bd2b1ed8c2df4ab",
-      "title": "La reginetta di Leenane",
-      "url": "https://culturabologna.it/events/578520",
-      "date": "2027-02-23T00:00:00+00:00",
-      "description": "Teatro Ebe Stignani | Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "002a7f6c1af251bae4db",
-      "title": "Arcadi Volodos",
-      "url": "https://culturabologna.it/events/568233",
-      "date": "2027-02-22T00:00:00+00:00",
-      "description": "Musica Insieme | I Concerti 2026|2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "491bc9a4eb22abe6f2f4",
-      "title": "Chat Pile + Guests",
-      "url": "https://culturabologna.it/events/577626",
-      "date": "2027-02-21T00:00:00+00:00",
-      "description": "Locomotiv | Eventi stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "e0c484961b695f026477",
-      "title": "Grammatica della fantasia Il museo degli errori",
-      "url": "https://culturabologna.it/events/578061",
-      "date": "2027-02-21T00:00:00+00:00",
-      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "fb880307b5d2c8fac60a",
-      "title": "Cappuccetto rosso",
-      "url": "https://culturabologna.it/events/577311",
-      "date": "2027-02-21T00:00:00+00:00",
-      "description": "MedicinaTeatro | Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "b8b9b29475c91d156f4c",
-      "title": "Pollicino Dorè",
-      "url": "https://culturabologna.it/events/578670",
-      "date": "2027-02-21T00:00:00+00:00",
-      "description": "Favole all'Osservanza | Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "a6c685068e5d21d7314e",
-      "title": "I colori dell’acqua",
-      "url": "https://culturabologna.it/events/578059",
-      "date": "2027-02-20T00:00:00+00:00",
-      "description": "Teatro Testoni Ragazzi. Dove lo sguardo si allarga | Stagione 2026/27",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Navile"
-    },
-    {
-      "id": "b93a1e498435184d4063",
-      "title": "Arrivato a questo punto. Gioele Dix",
-      "url": "https://culturabologna.it/events/574367",
-      "date": "2027-02-20T00:00:00+00:00",
-      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "d0c85e6eb5fd99fcbdd8",
-      "title": "Vent Debout",
-      "url": "https://culturabologna.it/events/576141",
-      "date": "2027-02-20T00:00:00+00:00",
-      "description": "spettacolo di Des Fourmis Dans La Lanterne | ITC Teatro 2026/2027 - Contemporaneo",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "7c0e68b25c29e4287d72",
-      "title": "Error #440",
-      "url": "https://culturabologna.it/events/571674",
-      "date": "2027-02-20T00:00:00+00:00",
-      "description": "Caro teatro, ti scrivo....| Stagione 2026-2027",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
-    },
-    {
-      "id": "d3b49cd17ce3e23fa3a6",
-      "title": "Dåu mujêr äli én pîz che ónna!",
-      "url": "https://culturabologna.it/events/577845",
-      "date": "2027-02-18T00:00:00+00:00",
-      "description": "Compagnia Dialettale Bolognese Bruno Lanzarini",
-      "source": "Bologna Welcome",
-      "category": "Eventi",
-      "quartiere": ""
     },
     {
       "id": "3d280ad7dcdb1b96d4b8",
@@ -452,6 +322,16 @@
       "quartiere": "San Donato-San Vitale"
     },
     {
+      "id": "ea3edbee6c67f21b1de1",
+      "title": "Lavori in VIA ERMETE NOVELLI",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-09-27T22:00:00+00:00",
+      "description": "Lavori di posa della rete del teleriscaldamento Hera",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "San Donato-San Vitale"
+    },
+    {
       "id": "e2920759e7de8dd65e01",
       "title": "Lavori in VIA CADRIANO",
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
@@ -527,6 +407,26 @@
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
       "date": "2026-07-19T22:00:00+00:00",
       "description": "Lavori di riqualificazione della pavimentazione stradale in materiale lapideo",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "Santo Stefano"
+    },
+    {
+      "id": "ddce6407173dc6ff93ce",
+      "title": "Lavori in VIA PAOLO BOVI CAMPEGGI",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-06-28T22:00:00+00:00",
+      "description": "Lavori di manutenzione di un tratto del Canale Navile",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": ""
+    },
+    {
+      "id": "b524628281cb728a6773",
+      "title": "Lavori in VIA SANTA",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-03-22T23:00:00+00:00",
+      "description": "Lavori di rifacimento facciata e coperto del fabbricato.",
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "Santo Stefano"
