@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-31T21:36:08.726429+00:00",
+  "updated_at": "2026-11-01T01:10:56.079130+00:00",
   "items": [
+    {
+      "id": "ec42fd41292cce4edd5d",
+      "title": "Ensemble Colloredo, Arsenii Moon",
+      "url": "https://culturabologna.it/events/568236",
+      "date": "2027-03-01T00:00:00+00:00",
+      "description": "Musica Insieme | I Concerti 2026|2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Porto-Saragozza"
+    },
     {
       "id": "178e8f51654e0bdcdb4b",
       "title": "Arianna fra le voci. Arianna Craviotto",
@@ -517,26 +527,6 @@
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
       "date": "2026-07-19T22:00:00+00:00",
       "description": "Lavori di riqualificazione della pavimentazione stradale in materiale lapideo",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Santo Stefano"
-    },
-    {
-      "id": "ddce6407173dc6ff93ce",
-      "title": "Lavori in VIA PAOLO BOVI CAMPEGGI",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-06-28T22:00:00+00:00",
-      "description": "Lavori di manutenzione di un tratto del Canale Navile",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": ""
-    },
-    {
-      "id": "b524628281cb728a6773",
-      "title": "Lavori in VIA SANTA",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-03-22T23:00:00+00:00",
-      "description": "Lavori di rifacimento facciata e coperto del fabbricato.",
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "Santo Stefano"
