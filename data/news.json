@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T07:33:37.370246+00:00",
+  "updated_at": "2026-11-01T15:10:41.742708+00:00",
   "items": [
     {
       "id": "ec42fd41292cce4edd5d",
@@ -100,6 +100,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "339bddfbfa46f9298bd0",
+      "title": "Allerta 104/2026 valida dalle 12:00 del 01/11/2026: stato del mare, vento, mareggiate",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4912020/allerta104_2026.pdf",
+      "date": "2026-11-01T11:44:38+00:00",
+      "description": "Dalle 12:00 del 01 novembre 2026 Allerta +++ARANCIONE+++ per +++stato del mare+++ nelle province di RA, FC, RN. Allerta +++GIALLA+++ per +++vento+++ nelle province di PC, PR, RE, MO, BO, FE, RA, FC, RN, per +++stato del mare+++ nelle province di FE e per +++ma",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
     },
     {
       "id": "3d280ad7dcdb1b96d4b8",
@@ -297,16 +307,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4819376/bollettino160_2026.pdf",
       "date": "2026-10-12T11:40:02+00:00",
       "description": "Per martedì 13 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "499b17bc11b4ea436a4e",
-      "title": "Bollettino di vigilanza 159/2026 valido dalle 00:00 del 12/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4823240/bollettino159_2026.pdf",
-      "date": "2026-10-11T11:44:36+00:00",
-      "description": "Per lunedì 12 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento. Tuttavia, non si escludono isolati fenomeni temporaleschi, localmente anche di forte intensità con possibili effetti e danni associati, più probabili in prossimità della ",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
