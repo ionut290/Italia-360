@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T06:49:01.967560+00:00",
+  "updated_at": "2026-11-03T15:09:02.212061+00:00",
   "items": [
     {
       "id": "d44ea4cb29cc1b4cf865",
@@ -110,6 +110,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "5cc80f55f975c2d50fcb",
+      "title": "Bollettino di vigilanza 176/2026 valido dalle 00:00 del 04/11/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4912367/bollettino176_2026.pdf",
+      "date": "2026-11-03T11:44:33+00:00",
+      "description": "Per mercoledì 4 novembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
     },
     {
       "id": "de6af13771fb739863cb",
@@ -232,16 +242,6 @@
       "quartiere": ""
     },
     {
-      "id": "1fdcb4b0bf5ce0df2c62",
-      "title": "Commemorazione dei defunti: potenziati i servizi di bus per tre cimiteri",
-      "url": "https://www.tper.it/cimiteri2026",
-      "date": "2026-10-20T15:03:14+02:00",
-      "description": "A Bologna sabato 31 ottobre e lunedì 2 novembre sarà attiva la linea 76 per il cimitero della Certosa; nei giorni 1 e 2 novembre servizi dedicati di bus per i cimiteri di Imola e Porretta Terme &nbsp; Nelle giornate di sabato 31 ottobre e lunedì 2 novembre , a",
-      "source": "TPER Bologna",
-      "category": "Trasporti",
-      "quartiere": ""
-    },
-    {
       "id": "bc233dfd207fd6cd60b2",
       "title": "Allerta 102/2026 valida dalle 00:00 del 21/10/2026: piene dei fiumi, frane e piene dei corsi minori, vento e altri fenomeni.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4860687/allerta102_2026.pdf",
@@ -307,16 +307,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4835484/bollettino162_2026.pdf",
       "date": "2026-10-14T11:55:39+00:00",
       "description": "Per giovedì 15 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "e6679e797870fc8fedb3",
-      "title": "Bollettino di vigilanza 161/2026 valido dalle 00:00 del 14/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4831392/bollettino161_2026.pdf",
-      "date": "2026-10-13T11:52:48+00:00",
-      "description": "Per mercoledì 14 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
