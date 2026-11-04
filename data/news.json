@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-03T20:59:48.783943+00:00",
+  "updated_at": "2026-11-04T01:22:59.195800+00:00",
   "items": [
+    {
+      "id": "f9e7513988caa7f983b2",
+      "title": "… e fuori nevica! Vincenzo Salemme",
+      "url": "https://culturabologna.it/events/578068",
+      "date": "2027-03-04T00:00:00+00:00",
+      "description": "Teatro Celebrazioni. Ti porta dove vuoi tu - Stagione 2026/2027",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "cc8ed996662fac0f8572",
+      "title": "Scannasurice",
+      "url": "https://culturabologna.it/events/574209",
+      "date": "2027-03-04T00:00:00+00:00",
+      "description": "Opera aperta. Teatro Arena del Sole e Teatro delle Moline | Stagione 2026/27",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "5862cbd2fc9ef3268cc4",
+      "title": "Fèr Samper Cant ed gninta",
+      "url": "https://culturabologna.it/events/577849",
+      "date": "2027-03-04T00:00:00+00:00",
+      "description": "Compagnia Masetti di Luciana Minghetti",
+      "source": "Bologna Welcome",
+      "category": "Eventi",
+      "quartiere": ""
+    },
     {
       "id": "d44ea4cb29cc1b4cf865",
       "title": "ADAMO ROMANO",
