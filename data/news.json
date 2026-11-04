@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T01:22:59.195800+00:00",
+  "updated_at": "2026-11-04T09:14:36.974931+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -160,6 +160,46 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
+    },
+    {
+      "id": "2036da320d3b211fec5a",
+      "title": "Lavori in VIA ERMETE ZACCONI",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-11-01T23:00:00+00:00",
+      "description": "Ripavimentazione della zona sosta e rifacimento delle formelle",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "San Donato-San Vitale"
+    },
+    {
+      "id": "003e39592d988f10c624",
+      "title": "Lavori in VIALE ANGELO MASINI",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-11-01T23:00:00+00:00",
+      "description": "Lavori di realizzazione della nuova pavimentazione stradale",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "Santo Stefano"
+    },
+    {
+      "id": "8fb57584e277bf319b7c",
+      "title": "Lavori in VIALE PIETRO PIETRAMELLARA",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-11-01T23:00:00+00:00",
+      "description": "Lavori di realizzazione della nuova pavimentazione stradale",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "7c68686866e485d9310c",
+      "title": "Lavori in VIALE PIETRO PIETRAMELLARA",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-11-01T23:00:00+00:00",
+      "description": "Ripristino della pavimentazione in cubetti delle isole pedonali",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "Porto-Saragozza"
     },
     {
       "id": "339bddfbfa46f9298bd0",
@@ -612,6 +652,11 @@
       "quartiere": "Navile"
     }
   ],
-  "errors": [],
-  "feeds_ok": 4
+  "errors": [
+    {
+      "source": "Bologna Welcome",
+      "error": "Il feed non contiene articoli validi"
+    }
+  ],
+  "feeds_ok": 3
 }
