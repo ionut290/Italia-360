@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T06:47:29.737031+00:00",
+  "updated_at": "2026-11-05T15:28:19.614603+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -140,6 +140,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "7e82e3fe477799109a3f",
+      "title": "Bollettino di vigilanza 178/2026 valido dalle 00:00 del 06/11/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4928835/bollettino178_2026.pdf",
+      "date": "2026-11-05T11:38:18+00:00",
+      "description": "Per venerdì 6 novembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
     },
     {
       "id": "5750160b4b0cd08f72f9",
@@ -377,16 +387,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4840115/bollettino164_2026.pdf",
       "date": "2026-10-16T11:43:17+00:00",
       "description": "Per la giornata di sabato 17 ottobre non si prevedono fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "8d89ff01603fe3533412",
-      "title": "Bollettino di vigilanza 163/2026 valido dalle 00:00 del 16/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4839671/bollettino163_2026.pdf",
-      "date": "2026-10-15T12:22:27+00:00",
-      "description": "Per venerdì 16 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
