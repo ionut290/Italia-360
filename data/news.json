@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T23:40:06.667736+00:00",
+  "updated_at": "2026-11-05T06:47:29.737031+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -160,6 +160,16 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
+    },
+    {
+      "id": "293b9905d53d2219af9f",
+      "title": "Lavori in VIA PASQUALE VILLARI",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-11-02T23:00:00+00:00",
+      "description": "Rifacimento del marciapiede",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "Savena"
     },
     {
       "id": "de6af13771fb739863cb",
