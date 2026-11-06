@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T02:27:06.373956+00:00",
+  "updated_at": "2026-11-06T10:53:51.228039+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -142,6 +142,16 @@
       "quartiere": "Porto-Saragozza"
     },
     {
+      "id": "8809c6a8700e030e1cfd",
+      "title": "Bollettino di vigilanza 179/2026 valido dalle 00:00 del 07/11/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4932990/bollettino179_2026.pdf",
+      "date": "2026-11-06T11:36:59+00:00",
+      "description": "Per la giornata di sabato 7 novembre non sono previsti fenomeni significativi ai fini dell'allertamento, tuttavia nella prima parte della giornata non si escludono precipitazioni localmente intense, anche a carattere di rovescio temporalesco, più probabili sul",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "7e82e3fe477799109a3f",
       "title": "Bollettino di vigilanza 178/2026 valido dalle 00:00 del 06/11/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4928835/bollettino178_2026.pdf",
@@ -160,6 +170,16 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
+    },
+    {
+      "id": "a566e7947536371ad2fd",
+      "title": "Lavori in VIA EDGAR ALLAN POE",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-11-03T23:00:00+00:00",
+      "description": "Rifacimento del marciapiede",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "Borgo Panigale-Reno"
     },
     {
       "id": "5cc80f55f975c2d50fcb",
@@ -377,16 +397,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4844114/allerta100_2026.pdf",
       "date": "2026-10-17T11:47:21+00:00",
       "description": "Allerta +++GIALLA+++ per +++temporali+++ nelle province di PC, PR RE, MO, BO. Per la giornata di domenica 18 ottobre sono previste condizioni favorevoli allo sviluppo di temporali, con possibili effetti e danni associati, sul settore occidentale e centrale del",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "d3046a3a90a3abd2d236",
-      "title": "Bollettino di vigilanza 164/2026 valido dalle 00:00 del 17/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4840115/bollettino164_2026.pdf",
-      "date": "2026-10-16T11:43:17+00:00",
-      "description": "Per la giornata di sabato 17 ottobre non si prevedono fenomeni significativi ai fini dell'allertamento.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
