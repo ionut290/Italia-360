@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T10:11:32.331369+00:00",
+  "updated_at": "2026-11-07T16:27:16.021194+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -140,6 +140,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "f0d7575caf8d26aacce0",
+      "title": "Bollettino di vigilanza 180/2026 valido dalle 00:00 del 08/11/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4937152/bollettino180_2026.pdf",
+      "date": "2026-11-07T11:37:02+00:00",
+      "description": "Per domenica 8 novembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
     },
     {
       "id": "8809c6a8700e030e1cfd",
@@ -357,16 +367,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4852187/bollettino165_2026.pdf",
       "date": "2026-10-18T12:02:15+00:00",
       "description": "Per la giornata di lunedì 19 ottobre non sono previsti fenomeni significativi ai fini dell’allertamento, tuttavia non si escludono rovesci o temporali sparsi di breve durata lungo la fascia appenninica occidentale, con possibili effetti associati occasionali.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "1c03542c4ba2f28b26bf",
-      "title": "Allerta 100/2026 valida dalle 00:00 del 18/10/2026: temporali",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4844114/allerta100_2026.pdf",
-      "date": "2026-10-17T11:47:21+00:00",
-      "description": "Allerta +++GIALLA+++ per +++temporali+++ nelle province di PC, PR RE, MO, BO. Per la giornata di domenica 18 ottobre sono previste condizioni favorevoli allo sviluppo di temporali, con possibili effetti e danni associati, sul settore occidentale e centrale del",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
