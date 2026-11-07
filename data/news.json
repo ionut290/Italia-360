@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T17:58:13.928463+00:00",
+  "updated_at": "2026-11-07T02:49:03.135905+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -172,16 +172,6 @@
       "quartiere": ""
     },
     {
-      "id": "a566e7947536371ad2fd",
-      "title": "Lavori in VIA EDGAR ALLAN POE",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-11-03T23:00:00+00:00",
-      "description": "Rifacimento del marciapiede",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Borgo Panigale-Reno"
-    },
-    {
       "id": "5cc80f55f975c2d50fcb",
       "title": "Bollettino di vigilanza 176/2026 valido dalle 00:00 del 04/11/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4912367/bollettino176_2026.pdf",
@@ -190,16 +180,6 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
-    },
-    {
-      "id": "293b9905d53d2219af9f",
-      "title": "Lavori in VIA PASQUALE VILLARI",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-11-02T23:00:00+00:00",
-      "description": "Rifacimento del marciapiede",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Savena"
     },
     {
       "id": "de6af13771fb739863cb",
@@ -237,16 +217,6 @@
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
       "date": "2026-11-01T23:00:00+00:00",
       "description": "Lavori di realizzazione della nuova pavimentazione stradale",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Porto-Saragozza"
-    },
-    {
-      "id": "7c68686866e485d9310c",
-      "title": "Lavori in VIALE PIETRO PIETRAMELLARA",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-11-01T23:00:00+00:00",
-      "description": "Ripristino della pavimentazione in cubetti delle isole pedonali",
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "Porto-Saragozza"
@@ -417,16 +387,6 @@
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
       "date": "2026-09-27T22:00:00+00:00",
       "description": "Lavori di posa della rete del teleriscaldamento Hera",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "San Donato-San Vitale"
-    },
-    {
-      "id": "e2920759e7de8dd65e01",
-      "title": "Lavori in VIA CADRIANO",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-09-27T22:00:00+00:00",
-      "description": "Lavori di realizzazione della rete del teleriscaldamento Hera",
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "San Donato-San Vitale"
