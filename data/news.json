@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T00:37:02.396174+00:00",
+  "updated_at": "2026-11-08T07:22:18.319214+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -182,6 +182,16 @@
       "quartiere": ""
     },
     {
+      "id": "a566e7947536371ad2fd",
+      "title": "Lavori in VIA EDGAR ALLAN POE",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-11-03T23:00:00+00:00",
+      "description": "Rifacimento del marciapiede",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "Borgo Panigale-Reno"
+    },
+    {
       "id": "5cc80f55f975c2d50fcb",
       "title": "Bollettino di vigilanza 176/2026 valido dalle 00:00 del 04/11/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4912367/bollettino176_2026.pdf",
@@ -227,6 +237,16 @@
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
       "date": "2026-11-01T23:00:00+00:00",
       "description": "Lavori di realizzazione della nuova pavimentazione stradale",
+      "source": "Cantieri stradali Comune di Bologna",
+      "category": "Viabilità",
+      "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "7c68686866e485d9310c",
+      "title": "Lavori in VIALE PIETRO PIETRAMELLARA",
+      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
+      "date": "2026-11-01T23:00:00+00:00",
+      "description": "Ripristino della pavimentazione in cubetti delle isole pedonali",
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "Porto-Saragozza"
