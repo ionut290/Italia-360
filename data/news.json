@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T07:22:18.319214+00:00",
+  "updated_at": "2026-11-08T15:13:05.330409+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -140,6 +140,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "ca62d3be0ec9e601fdeb",
+      "title": "Bollettino di vigilanza 181/2026 valido dalle 00:00 del 09/11/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4937413/bollettino181_2026.pdf",
+      "date": "2026-11-08T11:44:57+00:00",
+      "description": "Per la giornata di lunedì 9 novembre non sono previsti fenomeni significativi ai fini dell'allertamento, tuttavia dal pomeriggio, sulle zone di crinale degli Appennini del settore occidentale, non si escludono precipitazioni localmente intense.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
     },
     {
       "id": "f0d7575caf8d26aacce0",
@@ -377,16 +387,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4856457/allerta101_2026.pdf",
       "date": "2026-10-19T11:45:56+00:00",
       "description": "Allerta +++GIALLA+++ per +++frane e piene dei corsi minori+++ nelle province di PC, PR, RE, MO, BO; +++temporali+++ nelle province di PC, PR RE, MO, BO; +++vento+++ nelle province di PC, PR RE, MO, BO, RA, FC, RN; +++stato del mare+++ nelle province di FE, RA,",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "eb148f01e6670b1975f2",
-      "title": "Bollettino di vigilanza 165/2026 valido dalle 00:00 del 19/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4852187/bollettino165_2026.pdf",
-      "date": "2026-10-18T12:02:15+00:00",
-      "description": "Per la giornata di lunedì 19 ottobre non sono previsti fenomeni significativi ai fini dell’allertamento, tuttavia non si escludono rovesci o temporali sparsi di breve durata lungo la fascia appenninica occidentale, con possibili effetti associati occasionali.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
