@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T19:42:36.145398+00:00",
+  "updated_at": "2026-11-08T23:43:23.791692+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -230,26 +230,6 @@
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "San Donato-San Vitale"
-    },
-    {
-      "id": "003e39592d988f10c624",
-      "title": "Lavori in VIALE ANGELO MASINI",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-11-01T23:00:00+00:00",
-      "description": "Lavori di realizzazione della nuova pavimentazione stradale",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Santo Stefano"
-    },
-    {
-      "id": "8fb57584e277bf319b7c",
-      "title": "Lavori in VIALE PIETRO PIETRAMELLARA",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-11-01T23:00:00+00:00",
-      "description": "Lavori di realizzazione della nuova pavimentazione stradale",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Porto-Saragozza"
     },
     {
       "id": "7c68686866e485d9310c",
