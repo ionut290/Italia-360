@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T09:51:28.491587+00:00",
+  "updated_at": "2026-11-10T17:51:19.945879+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -140,6 +140,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "6abc0a6ca3ed3e1cdb5b",
+      "title": "Allerta 106/2026 valida dalle 00:00 del 11/11/2026: frane e piene dei corsi minori, piene dei fiumi",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4949685/allerta106_2026.pdf",
+      "date": "2026-11-10T12:14:56+00:00",
+      "description": "Allerta +++ARANCIONE+++ per +++frane e piene dei corsi minori+++ nelle province di PR, RE, MO. Allerta +++GIALLA+++ per +++piene dei fiumi+++ nelle province di PR, RE, MO, BO, RA e per +++frane e piene dei corsi minori+++ nelle province di PC, PR, RE, MO, BO, ",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
     },
     {
       "id": "6eb17ac94e58dc7b4b1c",
@@ -357,16 +367,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4860913/bollettino166_2026.pdf",
       "date": "2026-10-21T11:35:49+00:00",
       "description": "Per giovedì 22 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "bc233dfd207fd6cd60b2",
-      "title": "Allerta 102/2026 valida dalle 00:00 del 21/10/2026: piene dei fiumi, frane e piene dei corsi minori, vento e altri fenomeni.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4860687/allerta102_2026.pdf",
-      "date": "2026-10-20T11:48:39+00:00",
-      "description": "Allerta +++GIALLA+++ per +++piene dei fiumi+++ nelle province di PR, RE, MO; +++frane e piene dei corsi minori+++ nelle province di PC, PR, RE, MO, BO; +++vento+++ nelle province di PC, PR RE, MO, BO, RA, FC, RN; +++stato del mare+++ nella provincia di FE; +++",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
