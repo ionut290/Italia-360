@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T03:00:05.001479+00:00",
+  "updated_at": "2026-11-12T11:12:34.691177+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -140,6 +140,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "c1a3afbaa041caf4b948",
+      "title": "Allerta 108/2026 valida dalle 00:00 del 13/11/2026: piene dei fiumi, frane e piene dei corsi minori, vento e altri fenomeni.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4951275/allerta108_2026.pdf",
+      "date": "2026-11-12T12:11:57+00:00",
+      "description": "Per venerdì 13 novembre sono previste piogge diffuse, moderate lungo le aree montuose centro-orientali, dove potranno assumere carattere di rovescio. Le precipitazioni saranno in graduale esaurimento dal pomeriggio a partire da ovest. Le piogge previste e preg",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
     },
     {
       "id": "21c114e32541eea9e4b3",
@@ -357,16 +367,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4869224/bollettino168_2026.pdf",
       "date": "2026-10-23T11:40:26+00:00",
       "description": "Per la giornata di sabato 24 ottobre non sono previsti fenomeni rilevanti ai fini dell'allertamento, tuttavia non si escludono rovesci o temporali sparsi di breve durata sul settore orientale, con possibili effetti associati occasionali.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "07e1401e5ae0c99fe0fb",
-      "title": "Bollettino di vigilanza 167/2026 valido dalle 00:00 del 23/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4865112/bollettino167_2026.pdf",
-      "date": "2026-10-22T11:37:52+00:00",
-      "description": "Per la giornata di venerdì 23 ottobre non si prevedono fenomeni significativi ai fini dell'allertamento, tuttavia non si escludono precipitazioni intense, anche a carattere di rovescio temporalesco, più probabili sul settore appenninico centro-occidentale con ",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
