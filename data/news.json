@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T07:59:13.047242+00:00",
+  "updated_at": "2026-11-13T16:25:47.651010+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -140,6 +140,26 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "f76d9613cb5dfdac5ad1",
+      "title": "Allerta 109/2026 valida dalle 00:00 del 14/11/2026: piene dei fiumi, frane e piene dei corsi minori",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4963941/allerta109_2026.pdf",
+      "date": "2026-11-13T11:57:33+00:00",
+      "description": "Allerta +++ARANCIONE+++ per +++piene dei fiumi+++ nelle province di RE, MO, BO, FE, RA. Allerta +++GIALLA+++ per +++piene dei fiumi+++ nelle province di PR, RE, BO, RA e per +++frane e piene dei corsi minori+++ nelle province di PC, PR, RE, MO, BO, RA, FC, RN.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
+      "id": "2c6a7644622a1da2edd1",
+      "title": "Sciopero generale nazionale CGIL di venerdì 20 novembre: modalità per i servizi Tper",
+      "url": "https://www.tper.it/sciopero20novembre2026",
+      "date": "2026-11-13T11:55:11+01:00",
+      "description": "SERVIZI DI BUS TPER DI BOLOGNA E FERRARA NON GARANTITI DALLE ORE 8.30 ALLE ORE 16.30 E DALLE ORE 19.30 A FINE SERVIZIO Per venerdì 20 novembre l’organizzazione sindacale CGIL ha proclamato uno sciopero generale nazionale di tutti i settori pubblici e privati p",
+      "source": "TPER Bologna",
+      "category": "Trasporti",
+      "quartiere": ""
     },
     {
       "id": "c1a3afbaa041caf4b948",
@@ -357,16 +377,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4878145/bollettino169_2026.pdf",
       "date": "2026-10-24T11:38:35+00:00",
       "description": "Per le giornate di domenica 25 e lunedì 26 ottobre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "0e8ef21d44fc84131239",
-      "title": "Bollettino di vigilanza 168/2026 valido dalle 00:00 del 24/10/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4869224/bollettino168_2026.pdf",
-      "date": "2026-10-23T11:40:26+00:00",
-      "description": "Per la giornata di sabato 24 ottobre non sono previsti fenomeni rilevanti ai fini dell'allertamento, tuttavia non si escludono rovesci o temporali sparsi di breve durata sul settore orientale, con possibili effetti associati occasionali.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
