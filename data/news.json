@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:38:27.270607+00:00",
+  "updated_at": "2026-11-14T03:17:02.739039+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -252,16 +252,6 @@
       "quartiere": ""
     },
     {
-      "id": "a566e7947536371ad2fd",
-      "title": "Lavori in VIA EDGAR ALLAN POE",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-11-03T23:00:00+00:00",
-      "description": "Rifacimento del marciapiede",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Borgo Panigale-Reno"
-    },
-    {
       "id": "5cc80f55f975c2d50fcb",
       "title": "Bollettino di vigilanza 176/2026 valido dalle 00:00 del 04/11/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4912367/bollettino176_2026.pdf",
@@ -280,26 +270,6 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
-    },
-    {
-      "id": "2036da320d3b211fec5a",
-      "title": "Lavori in VIA ERMETE ZACCONI",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-11-01T23:00:00+00:00",
-      "description": "Ripavimentazione della zona sosta e rifacimento delle formelle",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "San Donato-San Vitale"
-    },
-    {
-      "id": "7c68686866e485d9310c",
-      "title": "Lavori in VIALE PIETRO PIETRAMELLARA",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-11-01T23:00:00+00:00",
-      "description": "Ripristino della pavimentazione in cubetti delle isole pedonali",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Porto-Saragozza"
     },
     {
       "id": "339bddfbfa46f9298bd0",
@@ -422,16 +392,6 @@
       "quartiere": ""
     },
     {
-      "id": "131c6088df0fd8c8a92e",
-      "title": "Lavori in VICOLO ALEMAGNA",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-08-23T22:00:00+00:00",
-      "description": "Lavori di rifacimento della pavimentazione stradale in materiale lapideo",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Santo Stefano"
-    },
-    {
       "id": "10a1bcb50f16a9727280",
       "title": "San Benedetto Val di Sambro: abbonamento bus agevolato per raggiungere la stazione",
       "url": "https://www.tper.it/news/abbonamento-bus-agevolato-san-benedetto-vds",
@@ -450,26 +410,6 @@
       "source": "Cantieri stradali Comune di Bologna",
       "category": "Viabilità",
       "quartiere": "Savena"
-    },
-    {
-      "id": "47c24f54ff580c83a4d1",
-      "title": "Lavori in VIA CALDARESE",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-07-19T22:00:00+00:00",
-      "description": "Lavori di riqualificazione della pavimentazione stradale in materiale lapideo",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Santo Stefano"
-    },
-    {
-      "id": "ddce6407173dc6ff93ce",
-      "title": "Lavori in VIA PAOLO BOVI CAMPEGGI",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-06-28T22:00:00+00:00",
-      "description": "Lavori di manutenzione di un tratto del Canale Navile",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": ""
     },
     {
       "id": "b524628281cb728a6773",
