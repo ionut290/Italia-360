@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T02:09:39.484801+00:00",
+  "updated_at": "2026-11-16T09:45:24.675396+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -436,7 +436,7 @@
       "title": "Chiusura punto Tper – Silla",
       "url": "https://www.tper.it/news/chiusura-punto-tper-silla",
       "date": "2026-02-16T08:54:28+01:00",
-      "description": "Si informa che il Punto Tper di Silla , nel Comune di Castel di Casio , resterà chiuso al pubblico dal 16 al 20 novembre 2026 . Il servizio riprenderà regolarmente secondo i consueti orari di apertura a partire dal giorno successivo.",
+      "description": "Si informa che il Punto Tper di Silla , nel Comune di Castel di Casio, resterà chiuso al pubblico dal 16 al 20 novembre e nella giornata del 26 novembre 2026 . Il servizio riprenderà regolarmente dal primo giorno utile successivo , secondo i consueti orari di ",
       "source": "TPER Bologna",
       "category": "Trasporti",
       "quartiere": ""
@@ -552,11 +552,11 @@
       "quartiere": "San Donato-San Vitale"
     },
     {
-      "id": "b7288f4c6f6b94ac49e9",
+      "id": "00950dac034f283764d3",
       "title": "Inserimento scolastico dei profughi ucraini",
-      "url": "https://www.tper.it/content/inserimento-scolastico-dei-profughi-ucraini",
+      "url": "https://www.tper.it/inserimento-scolastico-profughi-ucraini",
       "date": "2022-04-07T11:58:06+02:00",
-      "description": "Per la gestione dell'emergenza profughi dall'Ucraina, la Regione Emilia-Romagna, di concerto con le quattro aziende del trasporto pubblico emiliano-romagnole, ha messo in campo alcuni interventi mirati in particolare alla popolazione scolastica in fuga dalla g",
+      "description": ".ucraina-tper { margin: 0 auto !important; text-align: left !important; } /* ========================= NAVIGAZIONE LINGUE ========================= */ .ucraina-tper .ucr-language-nav { display: flex !important; flex-wrap: wrap !important; gap: 10px !important;",
       "source": "TPER Bologna",
       "category": "Trasporti",
       "quartiere": ""
