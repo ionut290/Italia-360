@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T03:17:11.199855+00:00",
+  "updated_at": "2026-11-20T11:53:51.101946+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -140,6 +140,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "daebf56e794847400957",
+      "title": "Bollettino di vigilanza 182/2026 valido dalle 00:00 del 21/11/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/5007076/bollettino182_2026.pdf",
+      "date": "2026-11-20T11:41:52+00:00",
+      "description": "Per sabato 21 novembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
     },
     {
       "id": "154d6a3ce238f938ee54",
@@ -337,16 +347,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4912020/allerta104_2026.pdf",
       "date": "2026-11-01T11:44:38+00:00",
       "description": "Dalle 12:00 del 01 novembre 2026 Allerta +++ARANCIONE+++ per +++stato del mare+++ nelle province di RA, FC, RN. Allerta +++GIALLA+++ per +++vento+++ nelle province di PC, PR, RE, MO, BO, FE, RA, FC, RN, per +++stato del mare+++ nelle province di FE e per +++ma",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "3d280ad7dcdb1b96d4b8",
-      "title": "Allerta 103/2026 valida dalle 00:00 del 01/11/2026: vento, stato del mare",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4899937/allerta103_2026.pdf",
-      "date": "2026-10-31T11:52:57+00:00",
-      "description": "Allerta +++GIALLA+++ per +++vento+++ nelle province di PC, PR, RE, MO, BO, FE, RA, FC, RN e per +++stato del mare+++ nelle province di FE, RA, FC, RN. Per la giornata di domenica 1 novembre sono previsti venti di burrasca moderata (62-74 Km/h) da nord-est con ",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
