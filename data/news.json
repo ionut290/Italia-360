@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T09:56:01.949333+00:00",
+  "updated_at": "2026-11-21T17:33:18.092932+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -142,6 +142,16 @@
       "quartiere": "Porto-Saragozza"
     },
     {
+      "id": "52fb96028f5fce538890",
+      "title": "Allerta 116/2026 valida dalle 00:00 del 22/11/2026: piene dei fiumi, frane e piene dei corsi minori, vento",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/5011413/allerta116_2026.pdf",
+      "date": "2026-11-21T11:55:33+00:00",
+      "description": "Allerta +++GIALLA+++ per +++piene dei fiumi+++ nelle province di PC, PR, RE, MO, BO, FE, RA; per +++frane e piene dei corsi minori+++ nelle province di PC, PR, RE, MO, BO, RA; per +++vento+++ nelle province di PC, PR, RE, MO, BO, RA, FC, RN. Nella giornata di ",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "daebf56e794847400957",
       "title": "Bollettino di vigilanza 182/2026 valido dalle 00:00 del 21/11/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/5007076/bollettino182_2026.pdf",
@@ -219,16 +229,6 @@
       "description": "Allerta +++ARANCIONE+++ per +++piene dei fiumi+++ nelle province di RE, MO, BO, FE, RA. Allerta +++GIALLA+++ per +++piene dei fiumi+++ nelle province di PR, RE, BO, RA e per +++frane e piene dei corsi minori+++ nelle province di PC, PR, RE, MO, BO, RA, FC, RN.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "2c6a7644622a1da2edd1",
-      "title": "Sciopero generale nazionale CGIL di venerdì 20 novembre: modalità per i servizi Tper",
-      "url": "https://www.tper.it/sciopero20novembre2026",
-      "date": "2026-11-13T11:55:11+01:00",
-      "description": "Servizi di bus Tper di Bologna e Ferrara non garantiti dalle ore 8:30 alle 16:30 e dalle ore 19:30 a fine servizio Per venerdì 20 novembre l’organizzazione sindacale CGIL ha proclamato uno sciopero generale nazionale di tutti i settori pubblici e privati per l",
-      "source": "TPER Bologna",
-      "category": "Trasporti",
       "quartiere": ""
     },
     {
@@ -337,16 +337,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4916216/bollettino175_2026.pdf",
       "date": "2026-11-02T11:44:42+00:00",
       "description": "Per martedì 3 novembre non sono previsti fenomeni significativi ai fini dell' allertamento. Tuttavia, per effetto del moto ondoso residuo, non si escludono localizzati fenomeni di erosione lungo la costa.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "339bddfbfa46f9298bd0",
-      "title": "Allerta 104/2026 valida dalle 12:00 del 01/11/2026: stato del mare, vento, mareggiate",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4912020/allerta104_2026.pdf",
-      "date": "2026-11-01T11:44:38+00:00",
-      "description": "Dalle 12:00 del 01 novembre 2026 Allerta +++ARANCIONE+++ per +++stato del mare+++ nelle province di RA, FC, RN. Allerta +++GIALLA+++ per +++vento+++ nelle province di PC, PR, RE, MO, BO, FE, RA, FC, RN, per +++stato del mare+++ nelle province di FE e per +++ma",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
