@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T06:49:13.840773+00:00",
+  "updated_at": "2026-11-22T15:18:06.306634+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -140,6 +140,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "b41139ceef4dc8c5d5df",
+      "title": "Allerta 117/2026 valida dalle 00:00 del 23/11/2026: piene dei fiumi, mareggiate",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/5007480/allerta117_2026.pdf",
+      "date": "2026-11-22T12:29:05+00:00",
+      "description": "Allerta +++GIALLA+++ per +++piene dei fiumi+++ nelle province di PR, RE, MO, BO, FE, RA; per +++mareggiate+++ nelle province di FE, RA, FC, RN. Nella giornata di Lunedì 23 Novembre non sono previsti fenomeni meteo significativi ai fini dell'allertamento. La cr",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
     },
     {
       "id": "52fb96028f5fce538890",
@@ -332,16 +342,6 @@
       "quartiere": ""
     },
     {
-      "id": "de6af13771fb739863cb",
-      "title": "Bollettino di vigilanza 175/2026 valido dalle 00:00 del 03/11/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4916216/bollettino175_2026.pdf",
-      "date": "2026-11-02T11:44:42+00:00",
-      "description": "Per martedì 3 novembre non sono previsti fenomeni significativi ai fini dell' allertamento. Tuttavia, per effetto del moto ondoso residuo, non si escludono localizzati fenomeni di erosione lungo la costa.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
       "id": "3a991b14b152b8a01d51",
       "title": "Lavori in VIA LARGA",
       "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
@@ -417,16 +417,6 @@
       "url": "https://www.tper.it/pagamenti-contactless-preautorizzazione-1-marzo-2026",
       "date": "2026-03-03T14:05:43+01:00",
       "description": "Se paghi il viaggio con carta contactless direttamente a bordo autobus, dal 1° marzo 2026 cambia il sistema di pre-autorizzazione. L’importo pre-autorizzato potrà variare da 0 euro fino a 2,30 euro , in base al circuito della carta utilizzata. Per alcuni circu",
-      "source": "TPER Bologna",
-      "category": "Trasporti",
-      "quartiere": ""
-    },
-    {
-      "id": "92d477bcb135eccb0d04",
-      "title": "Chiusura punto Tper – Silla",
-      "url": "https://www.tper.it/news/chiusura-punto-tper-silla",
-      "date": "2026-02-16T08:54:28+01:00",
-      "description": "Si informa che il Punto Tper di Silla , nel Comune di Castel di Casio, resterà chiuso al pubblico dal 16 al 20 novembre e nella giornata del 26 novembre 2026 . Il servizio riprenderà regolarmente dal primo giorno utile successivo , secondo i consueti orari di ",
       "source": "TPER Bologna",
       "category": "Trasporti",
       "quartiere": ""
