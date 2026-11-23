@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T02:45:58.790692+00:00",
+  "updated_at": "2026-11-23T12:43:06.591938+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -140,6 +140,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "a0d893d9f275e93efc2b",
+      "title": "Bollettino di vigilanza 183/2026 valido dalle 00:00 del 24/11/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/5019642/bollettino183_2026.pdf",
+      "date": "2026-11-23T11:48:24+00:00",
+      "description": "Nella giornata di martedì 24 novembre non sono previsti fenomeni significativi ai fini dell'allertamento, tuttavia, nelle aree interessate dalle precipitazioni dei giorni precedenti, non si escludono occasionali fenomeni franosi sui versanti caratterizzati da ",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
     },
     {
       "id": "b41139ceef4dc8c5d5df",
@@ -327,16 +337,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4924617/bollettino177_2026.pdf",
       "date": "2026-11-04T11:50:36+00:00",
       "description": "Per giovedì 5 novembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "5cc80f55f975c2d50fcb",
-      "title": "Bollettino di vigilanza 176/2026 valido dalle 00:00 del 04/11/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4912367/bollettino176_2026.pdf",
-      "date": "2026-11-03T11:44:33+00:00",
-      "description": "Per mercoledì 4 novembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
