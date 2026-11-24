@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T10:55:49.616017+00:00",
+  "updated_at": "2026-11-24T21:11:42.230117+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -140,6 +140,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "b99669a6609b3256cbc1",
+      "title": "Allerta 118/2026 valida dalle 00:00 del 25/11/2026: frane e piene dei corsi minori, piene dei fiumi, vento e altri fenomeni.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/5023908/allerta118_2026.pdf",
+      "date": "2026-11-24T11:55:21+00:00",
+      "description": "Allerta +++ARANCIONE+++ per +++frane e piene dei corsi minori+++ nelle province di PR, RE, MO; Allerta +++GIALLA+++ per +++piene dei fiumi+++ nelle province di PR, RE, MO, BO, RA; per +++frane e piene dei corsi minori+++ nelle province di PC, PR, RE, MO, BO, R",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
     },
     {
       "id": "a0d893d9f275e93efc2b",
@@ -327,16 +337,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4928835/bollettino178_2026.pdf",
       "date": "2026-11-05T11:38:18+00:00",
       "description": "Per venerdì 6 novembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "5750160b4b0cd08f72f9",
-      "title": "Bollettino di vigilanza 177/2026 valido dalle 00:00 del 05/11/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4924617/bollettino177_2026.pdf",
-      "date": "2026-11-04T11:50:36+00:00",
-      "description": "Per giovedì 5 novembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
