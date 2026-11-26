@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T08:18:33.562482+00:00",
+  "updated_at": "2026-11-26T19:00:41.607102+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -140,6 +140,16 @@
       "source": "Bologna Welcome",
       "category": "Eventi",
       "quartiere": "Porto-Saragozza"
+    },
+    {
+      "id": "b99d46ff69696b28b399",
+      "title": "Bollettino di vigilanza 184/2026 valido dalle 00:00 del 27/11/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/5024275/bollettino184_2026.pdf",
+      "date": "2026-11-26T11:45:52+00:00",
+      "description": "Per la giornata di venerdì 27 novembre non si prevedono fenomeni significativi ai fini dell'allertamento. Tuttavia non si escludono occasionali fenomeni franosi sui versanti caratterizzati da condizioni idrogeologiche particolarmente fragili, a seguito delle p",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
     },
     {
       "id": "66528bf51c3418222ecc",
@@ -337,16 +347,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4937152/bollettino180_2026.pdf",
       "date": "2026-11-07T11:37:02+00:00",
       "description": "Per domenica 8 novembre non sono previsti fenomeni significativi ai fini dell'allertamento.",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "8809c6a8700e030e1cfd",
-      "title": "Bollettino di vigilanza 179/2026 valido dalle 00:00 del 07/11/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4932990/bollettino179_2026.pdf",
-      "date": "2026-11-06T11:36:59+00:00",
-      "description": "Per la giornata di sabato 7 novembre non sono previsti fenomeni significativi ai fini dell'allertamento, tuttavia nella prima parte della giornata non si escludono precipitazioni localmente intense, anche a carattere di rovescio temporalesco, più probabili sul",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
