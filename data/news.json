@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T10:52:13.938923+00:00",
+  "updated_at": "2026-11-27T19:57:35.500649+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -179,6 +179,16 @@
       "description": "Allerta +++ARANCIONE+++ per +++frane e piene dei corsi minori+++ nelle province di PR, RE, MO; Allerta +++GIALLA+++ per +++piene dei fiumi+++ nelle province di PR, RE, MO, BO, RA; per +++frane e piene dei corsi minori+++ nelle province di PC, PR, RE, MO, BO, R",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
+      "id": "aa18cf8aae9fd8e685f6",
+      "title": "Sciopero generale nazionale di venerdì 4 dicembre: modalità per i servizi Tper",
+      "url": "https://www.tper.it/sciopero4dicembre2026",
+      "date": "2026-11-24T11:49:57+01:00",
+      "description": "SERVIZI DI BUS TPER DI BOLOGNA E FERRARA NON GARANTITI DALLE ORE 8.30 ALLE ORE 16.30 E DALLE ORE 19.30 A FINE SERVIZIO Per l’intera giornata di venerdì 4 dicembre le organizzazioni sindacali&nbsp; Confederazione Unitaria di Base (CUB), Sindacato Generale di Ba",
+      "source": "TPER Bologna",
+      "category": "Trasporti",
       "quartiere": ""
     },
     {
