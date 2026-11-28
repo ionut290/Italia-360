@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T02:41:37.210412+00:00",
+  "updated_at": "2026-11-28T11:46:07.307350+00:00",
   "items": [
     {
       "id": "f9e7513988caa7f983b2",
@@ -142,6 +142,16 @@
       "quartiere": "Porto-Saragozza"
     },
     {
+      "id": "a9ee4b2cdd4898b9f1b5",
+      "title": "Bollettino di vigilanza 186/2026 valido dalle 00:00 del 29/11/2026: nessuna allerta.",
+      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/5040913/bollettino186_2026.pdf",
+      "date": "2026-11-28T11:45:38+00:00",
+      "description": "Nelle giornate di domenica 29 e lunedì 30 novembre non sono previsti fenomeni significativi ai fini dell'allertamento. Tuttavia si prevedono venti di burrasca moderata (62 - 74 km/h) sul mare al largo, con raffiche anche di intensità superiore, e venti forti (",
+      "source": "Allerta Meteo Emilia-Romagna",
+      "category": "Meteo e allerte",
+      "quartiere": ""
+    },
+    {
       "id": "14bee621c7dad0cae70a",
       "title": "Bollettino di vigilanza 185/2026 valido dalle 00:00 del 28/11/2026: nessuna allerta.",
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/5032714/bollettino185_2026.pdf",
@@ -200,16 +210,6 @@
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
-    },
-    {
-      "id": "b1601724579e68b566ec",
-      "title": "Lavori in VIA FRANCESCO RIZZOLI",
-      "url": "https://opendata.comune.bologna.it/explore/dataset/lavori-pubblici/table/",
-      "date": "2026-11-22T23:00:00+00:00",
-      "description": "Ripristino basoli smossi",
-      "source": "Cantieri stradali Comune di Bologna",
-      "category": "Viabilità",
-      "quartiere": "Santo Stefano"
     },
     {
       "id": "b41139ceef4dc8c5d5df",
@@ -347,16 +347,6 @@
       "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4945363/allerta105_2026.pdf",
       "date": "2026-11-09T11:43:50+00:00",
       "description": "Allerta +++GIALLA+++ per +++frane e piene dei corsi minori+++ nelle province di PC, PR, RE, MO, BO, FC, RN. Per martedì 10 novembre sono previste precipitazioni moderate, localmente forti, lungo il crinale appenninico. Nelle zone montane saranno possibili feno",
-      "source": "Allerta Meteo Emilia-Romagna",
-      "category": "Meteo e allerte",
-      "quartiere": ""
-    },
-    {
-      "id": "ca62d3be0ec9e601fdeb",
-      "title": "Bollettino di vigilanza 181/2026 valido dalle 00:00 del 09/11/2026: nessuna allerta.",
-      "url": "https://allertameteo.regione.emilia-romagna.it/documents/20181/4937413/bollettino181_2026.pdf",
-      "date": "2026-11-08T11:44:57+00:00",
-      "description": "Per la giornata di lunedì 9 novembre non sono previsti fenomeni significativi ai fini dell'allertamento, tuttavia dal pomeriggio, sulle zone di crinale degli Appennini del settore occidentale, non si escludono precipitazioni localmente intense.",
       "source": "Allerta Meteo Emilia-Romagna",
       "category": "Meteo e allerte",
       "quartiere": ""
